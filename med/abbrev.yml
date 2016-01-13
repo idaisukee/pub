@@ -12,3 +12,9 @@ c: cell
 p: protein
 r: receive
 tdy: today
+d: drug
+ds: dose
+dss: disease
+hu: Hokkaido University
+med: medicine
+Dr: doctor
