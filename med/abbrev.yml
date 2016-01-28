@@ -4,17 +4,36 @@ str: strong
 strd: steroid
 vsl: vessel
 bld: blood
-nil: do not exist
+nil: do not exist, not in list
+lin: exist, in list
 fctr: factor
 fnct: function
 TB: tuberoculosis
-c: cell
+B: bacterium
+c: cell, cyte
 p: protein
 r: receive
+e: enzyme
+i: inhibit
+s: stimulate
+dep: depend
+ch: channel
+vol: voltage
+hi: high
+lo: low
+qtt: quantity
+a: active
+depol: depolarize
+hyperpol: hyperpolarize
+dprs: depression
 tdy: today
 d: drug
 ds: dose
 dss: disease
+es: easy
+efct: effect
+abl: able
 hu: Hokkaido University
 med: medicine
 Dr: doctor
+rre: rare
