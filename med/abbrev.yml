@@ -1,39 +1,39 @@
-# 醫學學習用略語一覽
 #
-str: strong
-strd: steroid
-vsl: vessel
-bld: blood
-nil: do not exist, not in list
-lin: exist, in list
-fctr: factor
-fnct: function
-TB: tuberoculosis
+# 醫學學習用略語一覽
 B: bacterium
-c: cell, cyte
-p: protein
-r: receive
-e: enzyme
-i: inhibit
-s: stimulate
-dep: depend
-ch: channel
-vol: voltage
-hi: high
-lo: low
-qtt: quantity
+Dr: doctor
+TB: tuberoculosis
 a: active
-depol: depolarize
-hyperpol: hyperpolarize
-dprs: depression
-tdy: today
+abl: able
+bld: blood
+c: cell, cyte
+ch: channel
 d: drug
+dep: depend
+depol: depolarize
+dprs: depression
 ds: dose
 dss: disease
-es: easy
+e: enzyme
 efct: effect
-abl: able
+es: easy
+fctr: factor
+fnct: function
+hi: high
 hu: Hokkaido University
+hyperpol: hyperpolarize
+i: inhibit
+lin: exist, in list
+lo: low
 med: medicine
-Dr: doctor
+nil: do not exist, not in list
+p: protein
+qtt: quantity
+r: receive
 rre: rare
+s: stimulate
+str: strong
+strd: steroid
+tdy: today
+vol: voltage
+vsl: vessel
