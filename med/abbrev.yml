@@ -1,16 +1,20 @@
 #
 # 醫學學習用略語一覽
 B: bacterium
+DO: direct object
 Dr: doctor
+IO: indirect object
 TB: tuberoculosis
 a: active
 abl: able
 bld: blood
 c: cell, cyte
+ccr: cancer
 ch: channel
 d: drug
 dep: depend
 depol: depolarize
+dgns: diagnosis
 dprs: depression
 ds: dose
 dss: disease
@@ -23,10 +27,12 @@ hi: high
 hu: Hokkaido University
 hyperpol: hyperpolarize
 i: inhibit
-lin: exist, in list
+imm: immune
+lin: exist, not nil
 lo: low
 med: medicine
 nil: do not exist, not in list
+onc: oncoma
 p: protein
 qtt: quantity
 r: receive
@@ -35,5 +41,21 @@ s: stimulate
 str: strong
 strd: steroid
 tdy: today
+tp: transplant
+var: various
 vol: voltage
 vsl: vessel
+m: muscle
+n: nerve
+nr: neuron
+ifm: inflammation
+cron: chronic
+act: acute
+nml: normal
+b: block
+mtl: mental
+syn: synapse
+smpt: symptom
+cidc: contraindication
+rct: react
+rlt: relate
