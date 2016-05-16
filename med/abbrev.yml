@@ -4,13 +4,18 @@ B: bacterium
 DO: direct object
 Dr: doctor
 IO: indirect object
+LC: locative case
 TB: tuberoculosis
 a: active
 abl: able
+act: acute
+b: block
 bld: blood
 c: cell, cyte
 ccr: cancer
 ch: channel
+cidc: contraindication
+cron: chronic
 d: drug
 dep: depend
 depol: depolarize
@@ -28,39 +33,38 @@ hi: high
 hu: Hokkaido University
 hyperpol: hyperpolarize
 i: inhibit
+ifm: inflammation
 imm: immune
-lin: exist, not nil
+jp: Japan
 lc: locative case
+lin: exist, not nil
 lo: low
+m: muscle
+mal: malignant
 med: medicine
+mtl: mental
+n: nerve
+nec: neccesary
 nil: do not exist, not in list
+nml: normal
+nr: neuron
 onc: oncoma
 p: protein
 preg: pregnant
 qtt: quantity
 r: receive
+rct: react
+rlt: relate
 rre: rare
+rt: rate
 s: stimulate
+smpt: symptom
 str: strong
 strd: steroid
+syn: synapse
 tdy: today
 tp: transplant
 var: various
 vol: voltage
 vsl: vessel
-m: muscle
-mal: malignant
-n: nerve
-nec: neccesary
-nr: neuron
-ifm: inflammation
-cron: chronic
-act: acute
-nml: normal
-b: block
-mtl: mental
-syn: synapse
-smpt: symptom
-cidc: contraindication
-rct: react
-rlt: relate
+yr: year
