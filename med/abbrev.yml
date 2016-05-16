@@ -23,17 +23,20 @@ efct: effect
 es: easy
 fctr: factor
 fnct: function
+freq: frequent
 hi: high
 hu: Hokkaido University
 hyperpol: hyperpolarize
 i: inhibit
 imm: immune
 lin: exist, not nil
+lc: locative case
 lo: low
 med: medicine
 nil: do not exist, not in list
 onc: oncoma
 p: protein
+preg: pregnant
 qtt: quantity
 r: receive
 rre: rare
@@ -47,6 +50,7 @@ vol: voltage
 vsl: vessel
 m: muscle
 n: nerve
+nec: neccesary
 nr: neuron
 ifm: inflammation
 cron: chronic
