@@ -19,7 +19,7 @@ malus, -i → pejor
 できあがった比較級の形容詞も、やはり被修飾語の性・数・格に応じて曲用する。例えば longior の曲用は
 
 |-|単数主格|単数属格|複数主格|複数属格|
-|-|-|-|-|-|
+|:-|:-|:-|:-|:-|
 |男性・女性|longior|longioris|longiores|longiorum|
 |中性|longius|longioris|longiora|longiorum|
 
