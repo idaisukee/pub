@@ -1,22 +1,14 @@
 第1曲用は、AとBとCに分類される。Aが多数であり、B, Cはごく少数である。
 
-A a, ae, ae, arum の型
+# A a, ae, ae, arum の型
 
 名詞 arteria (動脈) は次のように曲用される：
 
  
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|arteria|arteriae| arteriae|arteriarum|
 
-単数主格 arteria
-
-単数属格 arteriae
-
-複数主格 arteriae
-
-複数属格 arteriarum
-
- 
-
- 
 
 この曲用のパターンを、「第1曲用」と称する。語尾だけを取り出して書けば、
 
@@ -30,7 +22,7 @@ a, ae, ae, arum
 
   
 
-練習問題A
+## 練習問題A
 
 次の第1曲用の名詞を曲用せよ。
 
@@ -60,15 +52,16 @@ a, ae, ae, arum
 
  
 
-B e, ae, es, arum の型
+# B e, ae, es, arum の型
 
  
 
 raphe (縫線) がこれに属する。
 
  
-
-raphe, raphae, raphes, rapharum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|raphe|raphae|raphes|rapharum|
 
  
 
@@ -76,15 +69,16 @@ raphe, raphae, raphes, rapharum
 
  
 
-C es, ae, ae, arum の型
+# C es, ae, ae, arum の型
 
  
 
 diabetes (尿) がこれに属する。
 
  
-
-diabetes, diabetae, diabetae, diabetarum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|diabetes|diabetae|diabetae|diabetarum|
 
  
 
