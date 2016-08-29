@@ -1,6 +1,5 @@
-名詞第2曲用
+# 名詞第2曲用
 
-＊本講座では、名詞の曲用は単数主格・単数属格・複数主格・複数属格をコンマで区切って記す。
 
  
 
@@ -8,17 +7,20 @@
 
  
 
-A us, i, i, orum の型
+## A us, i, i, orum の型
 
 musculus (筋肉) は
 
-musculus, musculi, musculi, musculorum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|musculus|musculi|musculi|musculorum|
 
 と曲用する。語尾だけを取り出して書けば、
 
  
-
-us, i, i, orum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|us|i|i|orum|
 
  
 
@@ -30,7 +32,7 @@ us, i, i, orum
 
  
 
-練習問題
+### 練習問題
 
 次の第2曲用Aの名詞を曲用せよ。
 
@@ -62,23 +64,25 @@ us, i, i, orum
 
  
 
-B um, i, a, orum の型
+## B um, i, a, orum の型
 
  
 
 collum (頸) は
 
  
-
-collum, colli, colla, collorum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|collum|colli|colla|collorum|
 
  
 
 と曲用する。語尾だけを取り出せば
 
  
-
-um, i, a, orum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|um|i|a|orum|
 
  
 
@@ -92,7 +96,7 @@ um, i, a, orum
 
  
 
-練習問題
+### 練習問題
 
 次の第2曲用Bの名詞を曲用せよ。
 
@@ -118,23 +122,25 @@ um, i, a, orum
 
 10 velum (帆)
 
-C os, i, i, orum の型
+## C os, i, i, orum の型
 
  
 
 topos (場所) は、
 
  
-
-topos, topi, topi, toporum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|topos|topi|topi|toporum|
 
  
 
 と曲用する。語尾だけを取り出せば、
 
  
-
-os, i, i, orum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|os|i|i|orum|
 
  
 
@@ -148,23 +154,25 @@ os, i, i, orum
 
  
 
-D on, i, a, orum の型
+## D on, i, a, orum の型
 
  
 
 colon (結腸) は、
 
  
-
-colon, coli, cola, colorum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|colon|coli|cola|colorum|
 
  
 
 と曲用する。語尾だけを取り出せば、
 
  
-
-on, i, a, orum
+|単数主格|単数属格|複数主格|複数属格|
+|:---|:---|:---|:---|
+|on|i|a|orum|
 
  
 
@@ -180,7 +188,7 @@ C, D の名詞はギリシア語起源のものが多い。
 
  
 
-練習問題
+### 練習問題
 
  
 
