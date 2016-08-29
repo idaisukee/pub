@@ -5,9 +5,9 @@
  
 |- |単数主格|単数属格|複数主格|複数属格|
 |:---|:---|:---|:---|:---|
-|女性 a|ae|ae|arum|
-|男性 us|i|i|orum|
-|中性 um|i|a|orum|
+|女性| a|ae|ae|arum|
+|男性| us|i|i|orum|
+|中性| um|i|a|orum|
 
  
 
