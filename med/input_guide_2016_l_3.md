@@ -26,9 +26,7 @@ https://drive.google.com/open?id=0B0Pw7zt-Iy8oaG1WbUpZRzZtRlk の内容を CSV �
 
 のようなファイルにしてほしい。
 
-試験は、どの科目も、 https://drive.google.com/open?id=0B0Pw7zt-Iy8oaG1WbUpZRzZtRlk ではなく、 https://drive.google.com/open?id=0B0Pw7zt-Iy8oWUtIa0ZneWdpY1U から日付・講時を読み取って入力してほしい。
-
-担当者を空欄にして、
+試験は、 https://drive.google.com/open?id=0B0Pw7zt-Iy8oaG1WbUpZRzZtRlk ではなく、 https://drive.google.com/open?id=0B0Pw7zt-Iy8oWUtIa0ZneWdpY1U から日付・講時を読み取って入力してほしい。担当者を空欄にして、
 
 ```
 統合・循環器学,10,17,4,試験,,,
@@ -36,7 +34,7 @@ https://drive.google.com/open?id=0B0Pw7zt-Iy8oaG1WbUpZRzZtRlk の内容を CSV �
 
 にしてほしい。行末に注目。
 
-そして、ファイル名はもとの冊子のページ番号からとってほしい。例えば統合・循環器学だったら「 1.csv 」にしてほしい。
+ファイル名はもとの冊子のページ番号からとってほしい。例えば統合・循環器学だったら「 1.csv 」にしてほしい。
 
 講時の表記は半角アラビア数字で統一してください。
 
