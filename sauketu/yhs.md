@@ -4,3 +4,5 @@
 - 鈁
 - 紡 VFYHS
 - 訪 YRYHS
+- 旅 YSOHV
+

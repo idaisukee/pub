@@ -2,4 +2,4 @@
 
 - 足 RYO
 - 疋 NYO
-
+- 定 JMYO
