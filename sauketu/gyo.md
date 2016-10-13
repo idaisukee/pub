@@ -6,3 +6,7 @@
 
 - 趣 GOSJE
 - 超 GOSHR
+
+- 蛋 NOLMI
+
+
