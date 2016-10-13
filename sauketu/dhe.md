@@ -4,3 +4,4 @@
 - 疲 KDHE
 - 跛 RMDHE
 - 彼 HODHE
+- 被 LDHE
