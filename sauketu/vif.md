@@ -8,4 +8,6 @@
 - 轡 VFR
 - 戀 VFP
 - 攣 VFQ
-- 
+- 變 VFOK
+- 欒 VFD
+
