@@ -18,6 +18,10 @@
 - 機 DVII
 - 成 IHS
 - 城 GIHS
+- 威 IHMV
+- 茂 TIH
+- 藏 TIMS
+- 臟 BTIS
 
 ## 識 YRYIA
 
