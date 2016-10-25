@@ -3,5 +3,5 @@
 - 卷 FQSU
 - 拳 FQQ
 - 勝 BFQS
-- 滕 BFE
+- 滕 BFQE
 - 藤 TBFE
