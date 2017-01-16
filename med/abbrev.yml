@@ -53,6 +53,7 @@ nml: normal
 nr: neuron
 onc: oncoma
 p: protein
+panc: pancreas
 preg: pregnant
 qtt: quantity
 r: receive
@@ -66,6 +67,7 @@ str: strong
 strd: steroid
 syn: synapse
 tdy: today
+thyr: thyroidea
 tp: transplant
 var: various
 vol: voltage
