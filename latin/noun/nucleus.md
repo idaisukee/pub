@@ -1,0 +1,84 @@
+# 核 nucleus
+
+- 尾状核頭 caput nuclei caudati
+- 尾状核尾 cauda nuclei caudati
+- 尾状核体 corpus nuclei caudati
+- 歯状核門 hilum nuclei dentati
+- 下オリーブ核門 hilum nuclei olivaris inferioris
+- 側坐核 nucleus accumbens
+- 疑核 nucleus ambiguus
+- 前核 nucleus anterior
+- 弓状核 nucleus arcuatus
+- 基底核 nucleus basalis
+- 尾状核 nucleus caudatus
+- 正中核 nucleus caudalis centralis
+- 小脳核 nuclei cerebelli
+- 蝸牛神経核 nuclei cochleares
+- 蝸牛神経前核 nucleus cochlearis anterior
+- 蝸牛神経後核 nucleus cochlearis posterior
+- 交連核 nucleus commisuralis
+- 迷走神経交連核 nucleus commissuralis nervi vagi
+- 菱形核 nucleus commissuralis rhomboidalis
+- 歯状核 nucleus dentatus
+- 栓状核 nucleus emboliformis
+- 室頂核 nucleus fastigii
+- 孤束膠様核 nucleus gelatinosus solitarius
+- 球状核 nucleus globosus
+- 外側手綱核 nucleus habenularis lateralis
+- 内側手綱核 nucleus habenularis medialis
+- 漏斗核 nucleus infundibularis
+- 介在核 nucleus intercalatus
+- 孤束中間核 nucleus intermedius solitarius
+- 脚間核 nucleus interpeduncularis
+- 孤束間質核 nucleus interstitialis solitarius
+- レンズ核 nucleus lentiformis
+- 水晶体核 nucleus lentis
+- 中間線状核 nucleus linearis intermedius
+- 乳頭体内側核 nucleus mamillaris medialis
+- 辺縁核 nucleus marginalis
+- 前内側核 nucleus medialis anterior
+- 小脳内側核 nucleus medialis cerebelli
+- 孤束内側核 nucleus medialis solitarius
+- 三叉神経運動核 nucleus motorius nervi trigemini
+- 外転神経核 nucleus nervi abducentis
+- 副神経核 nucleus nervi accessorii
+- 顔面神経核 nucleus nervi facialis
+- 舌下神経核 nucleus nervi hypoglossi
+- 動眼神経核 nucleus nervi oculomotorii
+- 迷走神経核 nucleus nervi vagi
+- 脳神経核 nucleus nervorum cranialium centralis
+- オリーブ核 nucleus olivaris
+- 主オリーブ核 nucleus olivaris principalis
+- 起始核 nucleus originis
+- 孤束交連傍核 nucleus paracommissuralis solitarius
+- 孤束傍核 nucleus parasolitarius
+- 前室傍核 nucleus paraventricularis anterior
+- 後室傍核 nucleus paraventricularis posterior
+- 脳弓周囲核 nucleus perifornicalis
+- 後核 nucleus posterior
+- 視床後核群 nuclei posteriores thalami
+- 迷走神経背側核 nucleus posterior nervi vagi
+- 背外側核 nucleus posterolateralis
+- 膝状体前核 nucleus pregeniculatus
+- 背側乳頭体前核 nucleus premammillaris dorsalis
+- 腹側乳頭体前核 nucleus premammillaris ventralis
+- 中心網様核 nucleus reticularis centralis
+- 中間網様核 nucleus reticularis intermedius
+- 外側網様核 nucleus reticularis lateralis
+- 内側網様核 nucleus reticularis medialis
+- 赤核 nucleus ruber
+- 下唾液核 nucleus salivatorius inferior
+- 交連前中隔核 nucleus septalis precommissuralis
+- 背側孤束核 nucleus solitarius posterior
+- 舌下神経下核 nucleus subhypoglossalis
+- 膝状体上核、膝上核 nucleus suprageniculatus
+- 乳頭体上核 nucleus supramammillaris
+- 孤束核 nuclei tractus solitarii
+- 隆起核 nuclei tuberales
+- 外側隆起核 nuclei tuberales laterales
+- 隆起乳頭体核 nucleus tuberomammillaris
+- 前庭神経下核 nucleus vestibularis inferior
+- 前庭神経外側核 nucleus vestibularis lateralis
+- 前庭神経内側核 nucleus vestibularis medialis
+- 前庭神経上核 nucleus vestibularis superior
+- 前庭神経下核の大細胞部 pars magnocellularis nuclei vestibularis inferioris

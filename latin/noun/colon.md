@@ -1,0 +1,11 @@
+- 結腸 colon
+- 上行結腸 colon ascendens
+- 下行結腸 colon descendens
+- Ｓ状結腸 colon sigmoideum
+- 横行結腸 colon transversum
+- 結腸 intestinum colon
+- 結腸間膜 mesocolon
+- 上行結腸間膜 mesocolon ascendens
+- 下行結腸間膜 mesocolon descendens
+- Ｓ結腸間膜 mesocolon sigmoideum
+- 横行結腸間膜 mesocolon transversum

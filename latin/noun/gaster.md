@@ -1,0 +1,46 @@
+- 下腹壁動脈 A epigastrica inferior
+- 浅腹壁動脈 A epigastrica superficialis
+- 上腹壁動脈 A epigastrica superior
+- 短胃動脈 Aa. gastricae breves
+- 右胃動脈 A gastrica dextra
+- 左胃動脈 A gastrica sinistra
+- 胃十二指腸動脈 A gastroduodenalis
+- 右胃大網動脈 A gastro-epiploica dextra
+- 左胃大網動脈 A gastroepiploica sinistra
+- 左胃大網動脈 A gastroomentalis sinistra
+- 胃小区 area gastricae
+- 胃体管 canalis gastricus
+- 胃面 facies gastrica
+- 胃円蓋 fornix gastricus
+- 二腹筋窩 fossa digastrica
+- ミズオチ fossa epigastrica
+- 胃小窩 foveolae gastricae
+- 胃底 fundus gastricus
+- =fundus gastricus fundus ventriculi
+- 胃 gaster
+- 固有胃腺 glandulae gastricae propriae
+- 胃圧痕 impressio gastrica
+- 胃肝靭帯 ligamentum gastrohepaticum
+- 胃脾間膜 ligamentum gastrolienale
+- 胃横隔間膜 ligamentum gastrophrenicum
+- 胃脾間膜 ligamentum gastrosplenicum
+- 肝胃間膜 ligamentum hepatogastricum
+- 顎ニ腹筋 M digastricus
+- 腓腹筋 M gastrocnemius
+- 胃間膜 mesogastrium
+- 下腹神経 N hypogastricus
+- 腸骨下腹神経 N iliohypogastricus
+- 胃リンパ小節 noduli lymphatici gastrici
+- 頚静脈二腹筋リンパ節 nodus jugulogastricus
+- 胃神経叢 plexus gastricus
+- 下下腹神経叢 plexus hypogastricus inferior
+- 上下腹神経叢 plexus hypogastricus superior
+- 胃粘膜ヒダ(襞) plicae gastricae
+- 胃膵ヒダ(襞) plica gastropancreatica
+- 上胃部 regio epigastrica
+- 下腹壁静脈 V. epigastrica inferior
+- 浅腹壁静脈 V. epigastrica superficialis
+- 上腹壁静脈 Vv. epigastricae superiores
+- 右胃静脈 V. gastrica dextra
+- 左胃静脈 V. gastrica sinistra
+- 胸腹壁静脈 Vv. thoracoepigastricae

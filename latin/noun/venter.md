@@ -1,0 +1,4 @@
+- 腹側線条体 corpus striatum ventrale
+- 二腹小葉内裂 fissura intrabiventralis
+- 腹側乳頭体前核 nucleus premammillaris ventralis
+- 腹側線条体 striatum ventrale
