@@ -1,0 +1,38 @@
+# ren 腎
+
+- 腎の動脈 Aa. renis
+- 腎小体 corpusculum renis
+- 腎髄質 medulla renis
+- 腎の静脈 Vv. renis
+- 腎動脈 A renalis
+- 中副腎動脈 A suprarenalis media
+- 上副腎動脈、上腎上体動脈 Aa. suprarenales superiores
+- 大腎杯 calyces renales majores
+- 腎柱 columnae renales
+- 腎皮質 cortex renalis
+- 殿裂 crena analis//crena ani//crena interglutealis
+- 腎稜 crista renalis
+- 腎被膜 fascia renalis
+- 大動脈腎動脈神経節 ganglia aorticorenalia
+- 腎神経節 ganglion renalis
+- 副腎、腎小体 glandula suprarenalis
+- 副腎 glandula suprarenalis
+- 腎門 hilum renale
+- 腎圧痕 impressio renalis
+- 副腎圧痕 impressio suprarenalis
+- 肝腎間膜 ligamentum hepatorenale
+- 脾腎ヒダ/襞/ ligamentum lienorenale
+- 脾腎ヒダ(襞) ligamentum splenorenale
+- 腎葉 lobi renales
+- 腎乳頭 papilla renalis
+- 腎盂 pelvis renalis
+- 副腎神経叢 plexus suprarenalis
+- 腎錐体 pyramis renalis
+- 肝腎陥凹 recessus hepatorenalis
+- 腎区域 segmenta renalia
+- 腎洞 sinus renalis
+- 尿細管 tubuli renales
+- 腎臓の静脈 Vv. intrarenales
+- 腎静脈 Vv. renales
+- 右副腎静脈 V. suprarenalis dextra
+- 左副腎静脈 V. suprarenalis sinistra
