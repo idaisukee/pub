@@ -1,4 +1,4 @@
-# 十二指腸 duedenum
+# 十二指腸 duodenum
 
 - 胃十二指腸動脈 A gastroduodenalis
 - 十二指腸後動脈 Aa. retroduodenales

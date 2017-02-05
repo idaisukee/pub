@@ -1,0 +1,41 @@
+- 内胸動脈 A thoracica interna
+- 外側胸動脈 A thoracica lateralis
+- 最上胸動脈 A thoracica suprema
+- 胸背動脈 A thoracodorsalis
+- 胸大動脈 aorta thoracica
+- 胸郭下口 apertura thoracis inferior
+- 胸郭上口 apertura thoracis superior
+- 胸管弓 arcus ductus thoracici
+- 胸腔 cavitas thoracis
+- 胸管 ductus thoracicus
+- 右胸管 ductus thoracicus dexter
+- 胸内筋膜 fascia endothoracica
+- 頚胸神経節 ganglion cervicothoracicum
+- 胸神経節 ganglia thoracica
+- 内臓神経神経節 ganglion thoracicum splanchnicum
+- 胸神経節 ganglia thoracica
+- 胸部後彎 kyphosis thoracica
+- 胸腸肋筋 M iliocostalis thoracis
+- 胸棘間筋 Mm interspinales thoracis
+- 胸最長筋 M longissimus thoracis
+- 胸半棘筋 M semispinalis thoracis
+- 胸棘筋 M spinalis thoracis
+- 胸部の筋 Mm thoracis
+- 胸横筋 M transversus thoracis
+- 胸心臓神経 Nn cardiaci thoracici
+- 胸神経 Nn thoracici
+- 長胸神経 N thoracicus longus
+- 胸背神経 N thoracodorsalis
+- 胸部のリンパ節 nodi lymphoidei thoracis
+- 胸部 pars thoracica
+- 大動脈胸部 pars thoracica aortae
+- 胸大動脈神経叢 plexus aorticus thoracicus
+- 胸心臓枝 rami cardiaci thoracici
+- 胸郭 skeleton thoracis
+- 胸郭 thorax
+- 内胸静脈 Vv. thoracicae internae
+- 外側胸静脈 V. thoracica lateralis
+- 胸肩峰静脈 V. thoracoacromialis
+- 胸背静脈 V. thoracodorsalis
+- 胸腹壁静脈 Vv. thoracoepigastricae
+- 胸椎 vertebrae thoracicae

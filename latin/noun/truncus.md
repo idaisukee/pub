@@ -1,0 +1,18 @@
+- 交感幹神経節|幹神経節 ganglia trunci sympathici
+- 肺動脈口 ostium trunci pulmonalis
+- 肺動脈洞 sinus trunci pulmonalis
+- 幹 truncus
+- 副神経幹 truncus nervi accessorii
+- 腕頭動脈 truncus brachiocephalicus
+- 腹腔動脈 truncus coeliacus
+- 脳梁幹 truncus corporis callosi
+- 肋頚動脈 truncus costocervicalis
+- 脳幹 truncus encephali
+- 腸リンパ本幹 trunci intestinales
+- 舌顔面動脈幹 truncus linguofacialis
+- リンパ本幹 trunci lymphatici
+- 肺動脈幹 truncus pulmonalis
+- 前迷走神経幹 truncus vagalis anterior
+- 後迷走神経幹 truncus vagalis posterior
+- 脳幹静脈 Vv. trunci encephali
+- 肺動脈弁 valva trunci pulmonalis

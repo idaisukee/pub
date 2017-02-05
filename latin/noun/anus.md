@@ -1,0 +1,19 @@
+- 肛門柱 columnae anales
+- 坐骨肛門窩脂肪体 corpus adiposum fossae ischioanalis
+- 殿裂 crena analis//crena ani//crena interglutealis
+- 鋤骨後鼻孔稜 crista choanalis vomeris
+- 坐骨肛門窩 fossa ischioanalis
+- 肛門周囲腺 glandula circumanalis
+- 恥骨肛門筋 M puboanalis
+- 下肛門神経 Nn anales inferiores
+- 上肛門神経 Nn anales superiores
+- 肛門櫛 pecten analis
+- 肛門部 regio analis
+- 肛門洞 sinus anales
+- 肛門弁 valvulae anales
+- 肛門移行帯 zona transitionalis analis
+- 肛門挙筋腱弓 arcus tendineus musculi levator ani
+- 殿裂 crena analis//crena ani//crena interglutealis
+- 肛門挙筋 M levator ani
+- 外肛門括約筋 M sphincter ani externus
+- 内肛門括約筋 M sphincter ani internus

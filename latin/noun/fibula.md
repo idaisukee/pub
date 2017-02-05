@@ -1,0 +1,23 @@
+- 腓骨動脈 A fibularis
+- 腓骨頭尖 apex capitis fibulae
+- 脛腓関節 articulatio tibiofibularis
+- 腓骨頭 caput fibulae
+- 腓骨頚 collum fibulae
+- 腓骨体 corpus fibulae
+- 腓骨頭関節面 facies articularis capitis fibulae
+- 腓骨関節面 facies artiuclaris fibularis
+- 外側下腿面 facies cruralis fibularis
+- 腓骨切痕 incisura fibularis
+- 踵腓靭帯 ligamentum calcaneofibulare
+- 前腓骨頭靭帯 ligamentum capitis fibulae anterius
+- 後腓骨頭靭帯 ligamentum capitis fibulae posterius
+- 外側側副靭帯 ligamentum collaterale fibulare
+- 前距腓靭帯 ligamentum talofibulare anterius
+- 後距腓靭帯 ligamentum talofibulare posterius
+- 総腓骨神経 N fibularis communis
+- 深腓骨神経 N fibularis profundus
+- 浅腓骨神経 N fibularis superficialis
+- 腓側交通枝、腓腹交通枝 ramus communicans fibularis/*ramus communicans peroneus
+- 下腓骨筋支帯 retinaculum musculorum fibularium inferius
+- 腓骨静脈 Vv. fibulares
+- 腓側足根腱鞘 vaginae tendinum tarsales fibulares

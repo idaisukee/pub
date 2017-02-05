@@ -1,0 +1,53 @@
+- 大脳外側窩槽 cisterna fossae lateralis cerebri
+- 坐骨肛門窩脂肪体 corpus adiposum fossae ischioanalis
+- 窩 fossa
+- 寛骨臼窩 fossa acetabuli
+- 腋窩 fossa axillaris
+- 犬歯窩 fossa canina
+- 小脳窩 fossa cerebellaris
+- 大脳窩 fossa cerebralis
+- 鈎突窩 fossa coronoidea
+- 前頭蓋窩 fossa cranii anterior
+- 中頭蓋窩 fossa cranii media
+- 後頭蓋窩 fossa cranii posterior
+- 肘窩 fossa cubitalis
+- 二腹筋窩 fossa digastrica
+- ミズオチ fossa epigastrica
+- 硝子体窩 fossa hyaloidea
+- 下垂体窩 fossa hypophysialis
+- 腸骨窩 fossa iliaca
+- 切歯窩 fossa incisiva
+- キヌタ骨窩 fossa incudis
+- 鎖骨下窩 fossa infraclavicularis
+- 棘上窩 fossa infraspinata
+- 側頭下窩 fossa infratemporalis
+- 外側鼠径窩 fossa inguinalis lateralis
+- 内側鼠径窩 fossa inguinalis medialis
+- 顆間窩 fossa intercondylaris
+- 坐骨肛門窩 fossa ischioanalis
+- 坐骨直腸窩 fossa ischiorectalis
+- 頚静脈窩 fossa jugularis
+- 外果窩 fossa malleoli lateralis
+- 下顎窩 fossa mandibularis
+- 尿道舟状窩 fossa navicularis urethrae
+- 肘頭窩 fossa olecrani
+- 卵円窩 fossa ovalis
+- 卵巣陥凹 fossa ovarica
+- 直腸傍陥凹 fossa pararectalis
+- 膝窩 fossa poplitea
+- 翼突窩 fossa pterygoidea
+- 翼口蓋窩 fossa pterygopalatina
+- 橈骨窩 fossa radialis
+- 菱形窩 fossa rhomboidea
+- 舟状窩 fossa scaphoidea
+- 肩甲下窩 fossa subscapularis
+- 棘上窩 fossa supraspinata
+- 扁桃上窩 fossa supratonsillaris
+- 橈骨窩 fossa radialis
+- 臼後窩 fossa retromolaris
+- 側頭窩 fossa temporalis
+- 三角窩 fossa triangularis
+- 転子窩 fossa trochanterica
+- 膣前庭窩 fossa vestibuli vaginae
+- 卵円窩縁 limbus fossae ovalis
+- 舟状窩弁 valvula fossae navicularis

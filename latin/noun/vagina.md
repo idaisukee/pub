@@ -1,0 +1,33 @@
+- 膣前庭球動脈 A bulbi vestibuli vaginae
+- 膣動脈 A vaginalis
+- 鋤骨鞘突管 canalis vomerovaginalis
+- 直腸膣筋膜 fascia rectovaginalis
+- 膣円蓋 fornix vaginae
+- 膣前庭窩 fossa vestibuli vaginae
+- 直腸膣筋 M vesicovaginalis
+- 膣神経 Nn vaginales
+- 膣口 ostium vaginae
+- 線維鞘の輪状部 pars anularis vaginae fibrosae
+- 子宮膣神経叢 plexus uterovaginalis
+- 鞘状突起 processus vaginalis
+- 直腸膣中隔 septum rectovaginale
+- 鞘間隙 spatium intervaginale subarachnoidale
+- 口蓋骨鞘突溝 sulcus palatovaginalis
+- 精巣鞘膜 tunica vaginalis testis
+- 膣静脈 Vv. vaginales
+- 鞘 vagina
+- 眼球鞘 vagina bulbi
+- 頚動脈鞘 vagina carotica
+- 視神経外鞘 vagina externa
+- 視神経内鞘 vagina interna
+- 腹直筋鞘 vagina musculi recti abdominis
+- 茎状突起鞘 vagina processus styloidei
+- 滑液鞘 vagina synovialis
+- 結節間腱鞘 vagina tendinis intertubercularis
+- 上斜筋腱鞘 vagina tendinis musculi obliqui superioris
+- 手根腱鞘 vaginae tendinum carpales
+- 下肢の腱鞘 vaginae tendinum membri inferioris
+- 前足根腱鞘 vaginae tendinum tarsales anteriores
+- 腓側足根腱鞘 vaginae tendinum tarsales fibulares
+- 脛側足根腱鞘 vaginae tendinum tarsales tibiales
+- 膣前庭 vestibulum vaginae

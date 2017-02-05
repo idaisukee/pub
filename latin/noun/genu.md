@@ -1,0 +1,20 @@
+- 下行膝動脈 A genus descendens
+- 外側下膝動脈 A genus inferior lateralis
+- 内側下膝動脈 A genus inferior medialis
+- 中膝動脈 A genus media
+- 外側上膝動脈 A genus superior lateralis
+- 内側上膝動脈 A genus superior medialis
+- 膝関節 articulatio genus
+- 膝状体間葉、膝状体間小葉 folium intergeniculatum
+- 膝神経節 ganglion geniculi
+- 膝 genu
+- 脳梁膝 genu corporis callosi
+- 顔面神経膝 genu nervi facialis
+- 膝十字靭帯 ligamenta cruciata genus
+- 膝状体前核 nucleus pregeniculatus
+- 膝状体上核、膝上核 nucleus suprageniculatus
+- 前膝部 regio genu anterior
+- 後膝部 regio genu posterior
+- 膝関節動脈網 rete articulare genus
+- 膝静脈 Vv. genus
+- 膝静脈 Vv. geniculares

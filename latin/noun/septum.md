@@ -1,0 +1,38 @@
+- 中隔部、中隔野 area septalis
+- 鼻中隔軟骨 cartilago septi nasi
+- 中隔鎌 falx septi
+- 透明中隔板 lamina septi pellucidi
+- 鼻中隔下制筋 M depressor septi nasi
+- 交連前中隔核 nucleus septalis precommissuralis
+- 鼻中隔可動部 pars mobilis septi nasi
+- 中隔前鼻枝 rami septales anteriores
+- 中隔後鼻枝 rami septales posteriores
+- 鼻中隔枝 ramus septi nasi
+- 中隔 septulum
+- 精巣中隔 septula testis
+- 中隔 septum
+- 房室中隔 septum atrioventriculare
+- 筋耳管管中隔 septum canalis musculotubarii
+- 陰核海綿体中隔 septum corporum cavernosorum
+- 大腿輪中隔 septum femorale
+- 亀頭中隔 septum glandis
+- 槽間中隔 septa interalveolaria
+- 心房中隔 septum interatriale
+- 外側上腕筋間中隔 septum intermusculare brachii laterale
+- 内側上腕筋間中隔 septum intermusculare brachii mediale
+- 外側大腿筋間中隔 septum intermusculare femoris laterale
+- 内側大腿筋間中隔 septum intermusculare femoris mediale
+- 根間中隔 septa interradicularia
+- 心室中隔 septum interventriculare
+- 舌中隔 septum linguae
+- 後正中中隔 septum medianum posterius
+- 鼻中隔 septum nasi
+- 骨鼻中隔 septum nasi osseum
+- 透明中隔 septum pellucidum
+- 陰茎中隔 septum penis
+- 直腸膣中隔 septum rectovaginale
+- 直腸膀胱中隔 septum rectovesicale
+- 陰嚢中隔 septum scroti
+- 前頭洞中隔 septum sinuum frontalium
+- 蝶形骨洞中隔 septum sinuum sphenoidalium
+- 透明中隔静脈 V. septi pellucidi

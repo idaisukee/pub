@@ -1,0 +1,9 @@
+- 頚 collum
+- 肋骨頚 collum costae
+- 大腿骨頚 collum femoris
+- 腓骨頚 collum fibulae
+- 亀頭頚 collum glandis
+- ツチ骨頚 collum mallei
+- 下顎頚 collum mandibulae
+- 膀胱頚 collum vesicae
+- 胆嚢頚 collum vesicae biliaris/*collum vesicae felleae

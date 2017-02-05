@@ -1,0 +1,36 @@
+- 後頭頂動脈 A parietalis posterior
+- 壁側骨盤筋膜 fascia pelvis parietalis
+- 頭頂孔 foramen parietale
+- 頭頂切痕 incisura parietalis
+- 壁側板 lamina parietalis
+- 下頭頂小葉 lobulus parietalis inferior
+- 上頭頂小葉 lobulus parietalis superior
+- 頭頂葉 lobus parietal
+- 側頭頭頂筋 M temporoparietalis
+- 頭頂縁 margo parietalis
+- 前頭頭頂弁蓋 operculum frontoparietale
+- 頭頂弁蓋 operculum parietale
+- 頭頂間骨 os interparietale
+- 頭頂骨 os parietale
+- 壁 paries
+- 前壁 paries anterior
+- 頚動脈壁 paries caroticus
+- 外壁 paries externus
+- 頚静脈壁 paries jugularis
+- 外側壁 paries lateralis
+- 乳突壁 paries mastoideus
+- 内側壁 paries medialis
+- 鼓膜壁 paries membranaceus
+- 膜性壁 paries membranaceus
+- 後壁 paries posterior
+- 室蓋壁 paries tegmentalis
+- 鼓室階壁 paries tympanicus
+- 前庭階壁 paries vestibularis
+- =paries vestibularis paries vestibularis ductus cochlearis
+- 蝶形頭頂静脈洞|蝶形骨頭頂静脈洞 sinus sphenoparietalis
+- 頭頂内溝 sulcus intraparietalis
+- 頭頂後頭溝 sulcus parieto-occipitalis
+- 頭頂乳突縫合 sutura parietomastoidea
+- 蝶頭頂縫合 sutura sphenoparietalis
+- 骨盤側壁三角 trigonum parietale laterale pelvis
+- 頭頂導出静脈 V. emissaria parietalis

@@ -1,0 +1,7 @@
+- 左胃大網動脈 A gastroomentalis sinistra
+- 網嚢 bursa omentalis
+- 大網 omentum majus
+- 小網 omentum minus
+- 大網ヒモ taenia omentalis
+- 小網隆起 tuber omentale
+- 小網隆起 tuber omentale

@@ -1,0 +1,44 @@
+- 外側前頭底動脈 A frontobasalis lateralis
+- 前頭極動脈 A polaris frontalis
+- 前頭前動脈 A prefrontalis
+- 前頭角 angulus frontalis
+- 前頭洞口 apertura sinus frontalis
+- 〔解〕前頭角 cornu frontale
+- 前頭稜 crista frontalis
+- 前頭結節 eminentia frontalis
+- 前頭孔 foramen frontale
+- 下前頭回 gyrus frontalis inferior
+- 内側前頭回 gyrus frontalis medialis
+- 中前頭回 gyrus frontalis medius
+- 上前頭回 gyrus frontalis superior
+- 前頭切痕 incisura frontalis
+- 前頭葉 lobus frontalis
+- 後頭前頭筋 M occipitofrontalis
+- 前頭神経 N frontalis
+- 前面観 norma frontalis
+- 前頭弁蓋 operculum frontale
+- 前頭頭頂弁蓋 operculum frontoparietale
+- 頭頂骨 os frontale
+- 前頭面 plana frontalia
+- 前頭極 polus frontalis
+- 前頭突起 processus frontalis
+- 前内側前頭枝 ramus frontalis anteromedialis
+- 中間内側前頭枝 ramus frontalis intermediomedialis
+- 後内側前頭枝 ramus frontalis posteromedialis
+- 前頭陥凹 recessus frontalis
+- 前頭部 regio frontalis
+- 前頭洞中隔 septum sinuum frontalium
+- 前頭洞 sinus frontalis
+- 前頭鱗 squama frontalis
+- 前頭溝 sulcus frontalis
+- 下前頭溝 sulcus frontalis inferior
+- 前頭縫合 sutura frontalis
+- 前頭篩骨縫合 sutura frontoethmoidalis
+- 前頭涙骨縫合 sutura frontolacrimalis
+- 前頭鼻骨縫合 sutura frontonasalis
+- 前頭頬骨縫合 sutura frontozygomatica
+- 鼻骨前頭骨縫合 sutura nasofrontalis
+- 蝶前頭縫合 sutura sphenofrontalis
+- 前頭結節 tuber frontale
+- 鼻前頭静脈 V. nasofrontalis
+- 前頭筋 venter frontalis

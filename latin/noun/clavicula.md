@@ -1,0 +1,18 @@
+- 肩鎖関節 articulatio acromioclavicularis
+- 胸鎖関節 articulatio sternoclavicularis
+- 鎖骨 clavicula
+- 鎖骨体 corpus claviculae
+- 鎖骨関節面 facies articularis clavicularis
+- 鎖骨下窩 fossa infraclavicularis
+- 肋鎖靭帯圧痕 impressio ligamenti costoclavicularis
+- 鎖骨切痕 incisura clavicularis
+- 肩鎖靭帯 ligamentum acromioclaviculare
+- 烏口鎖骨靭帯 ligamentum coracoclaviculare
+- 前胸鎖靭帯 ligamentum sternoclaviculare anterius
+- 後胸鎖靭帯 ligamentum sternoclavicularis posterior
+- 鎖骨中線 linea medioclavicularis
+- 外側鎖骨上神経 Nn supraclaviculares laterales
+- 鎖骨下部 pars infraclavicularis
+- 鎖骨上部 pars supraclavicularis
+- 肩甲鎖骨三角 trigonum omoclaviculare
+- 烏口鎖骨靭帯粗面 tuberositas ligamenti coracoclavicularis

@@ -1,0 +1,32 @@
+- 子宮円索動脈 A ligamenti teretis uteri
+- 卵管膨大部 ampulla tubae uterinae
+- 子宮頚管 canalis cervicis uteri
+- 子宮腔 cavitas uteri
+- 子宮頚 cervix uteri
+- 子宮角 cornu uteri
+- 子宮体 corpus uteri
+- 直腸子宮窩 excavatio rectouterina
+- 子宮端 extremitas uterina
+- 子宮底 fundus uteri
+- 子宮腺 glandula uterinae
+- 卵管漏斗 infundibulum tubae uterinae
+- 卵管峡部 isthmus tubae uterinae
+- 子宮峡部 isthmus uteri
+- 子宮広間膜 ligamentum latum uteri
+- 直腸子宮靭帯 ligamentum rectouterium
+- 子宮円索 ligamentum teres uteri
+- 固有卵巣索 ligamentum uteroovaricum
+- 直腸子宮筋 M rectouterinus
+- 子宮縁 margo uteri
+- 卵管腹腔口 ostium abdominale tubae uterinae
+- 外子宮口 ostium uteri
+- 卵管子宮口 ostium uterinum tubae (uterinae)
+- 子宮部 pars uterina
+- 子宮部 pars uterina
+- 子宮膣神経叢 plexus uterovaginalis
+- 子宮静脈叢 plexus venosus uterinus
+- 直腸子宮ヒダ(襞) plica rectouterina
+- 直腸子宮ヒダ(襞) plica rectouterina
+- 卵管 tuba uterina
+- 子宮 uterus
+- 子宮静脈 Vv. uterinae

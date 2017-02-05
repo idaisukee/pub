@@ -1,0 +1,43 @@
+- 小結節稜 crista tuberculi minoris
+- 肋骨結節関節面 facies articularis tuberculi costae
+- 結節間平面 planum intertuberculare
+- 結節 tuberculum
+- 前結節 tuberculum anterius
+- 視床前結節 tuberculum anterius thalami
+- 乳輪結節 tubercula areolae
+- 関節結節 tuberculum articulare
+- 耳介結節 tuberculum auriculae
+- 踵骨結節 tuberculum calcanei
+- 円錐靭帯結節 tuberculum conoideum
+- 小角結節 tuberculum corniculatum
+- 肋骨結節 tuberculum costae
+- 楔状結節 tuberculum cuneiforme
+- 三角筋粗面 tuberculum deltoideum
+- 咬頭 tuberculum dentis
+- 咬頭、歯冠結節 tuberculum dentis/*tuberculum coronae dentis/*tuberculum coronae†
+- 背側結節 tuberculum dorsale
+- 喉頭蓋結節 tuberculum epiglotticum
+- 関節下結節 tuberculum infraglenoidale
+- 外側顆間結節 tuberculum intercondylare laterale
+- 内側顆間結節 tuberculum intercondylare mediale
+- 静脈間隆起 tuberculum intervenosum
+- 頚静脈結節 tuberculum jugulare
+- 外側結節 tuberculum laterale
+- オトガイ結節 tuberculum mentale
+- 大結節 tuberculum majus
+- 縁結節 tuberculum marginale
+- 内側結節 tuberculum mediale
+- 小結節 tuberculum minus
+- 臼結節 tuberculum molare
+- 前斜角筋結節 tuberculum musculi scaleni anterioris
+- 前閉鎖結節 tuberculum obturatorium anterius
+- 後閉鎖結節 tuberculum obturatorium posterius
+- 舟状骨結節 tuberculum ossis scaphoidei
+- 大菱形骨結節 tuberculum ossis trapezii
+- 咽頭結節 tuberculum pharyngeum
+- 方形結節 tuberculum quadratum
+- 鞍結節 tuberculum sellae
+- 関節上結節 tuberculum supraglenoidale
+- 珠上結節 tuberculum supratragicum
+- 三叉神経結節 tuberculum trigeminale
+- 結節間腱鞘 vagina tendinis intertubercularis

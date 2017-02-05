@@ -1,0 +1,38 @@
+- 外側仙骨動脈 Aa. sacrales laterales
+- 正中仙骨動脈 A sacralis mediana
+- 仙骨翼 ala ossis sacri
+- 仙骨尖 apex ossis sacralis/*apex ossis sacri
+- 腰仙関節 articulatio lumbosacralis
+- 仙腸関節 articulatio sacroiliaca
+- 仙骨底 basis ossis sacri
+- 仙骨管 canalis sacralis
+- 仙骨角 cornu sacrale
+- 外側仙骨稜 crista sacralis lateralis
+- 中間仙骨稜 crista sacralis medialis
+- 仙骨盤面 facies sacropelvica
+- 仙骨前筋膜 fascia presacralis
+- 直腸仙骨筋膜 fascia rectosacralis
+- 仙骨曲 flexura sacralis
+- 前仙骨孔 foramina sacralia anteriora
+- 後仙骨孔 foramina sacralia posteriora
+- 仙骨神経節 ganglia sacralia
+- 仙骨裂孔 hiatus sacralis
+- 腰仙膨大|腰膨大 intumescentia lumbosacralis
+- 仙骨部後彎 kyphosis sacralis
+- 前仙腸靭帯 ligamentum sacroiliacum anterior
+- 骨間仙腸靭帯 ligamentum sacroiliacum interosseum
+- 後仙腸靭帯 ligamentum sacroiliacum posterior
+- 仙棘靭帯 ligamentum sacrospinale
+- 仙結節靭帯 ligamentum sacrotuberale
+- 仙棘筋 M sacrospinalis
+- 仙骨前神経 N presacralis
+- 仙骨内臓神経 Nn splanchnici sacrales
+- 仙骨リンパ節 nodi sacrales
+- 仙骨 os sacrum
+- 腰仙骨神経叢 plexus lumbosacralis
+- 仙骨神経叢 plexus sacralis
+- 仙骨静脈叢 plexus venosus sacralis
+- 仙骨粗面 tuberositas ossis sacri
+- 外側仙骨静脈 Vv. sacrales laterales
+- 正中仙骨静脈 V. sacralis mediana
+- 仙椎 vertebrae sacrales

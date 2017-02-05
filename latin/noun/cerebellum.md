@@ -1,0 +1,38 @@
+- 前下小脳動脈 A cerebelli inferior anterior
+- 後下小脳動脈 A cerebelli inferior posterior
+- 上小脳動脈 A cerebelli superior
+- 前下小脳動脈 A cerebelli inferior anterior
+- 橋小脳三角 angulus pontocerebellaris
+- 小脳 cerebellum
+- 外側小脳延髄槽 cisterna cerebellomedullaris lateralis
+- 後小脳延髄槽 cisterna cerebellomedullaris posterior
+- 橋小脳槽 cisterna pontocerebellaris
+- 小脳交連 commissura cerebelli
+- 小脳体 corpus cerebelli
+- 小脳白質 corpus medullare cerebelli
+- 小脳皮質 cortex cerebelli
+- 小脳鎌 falx cerebelli
+- 橋小脳線維 fibrae pontocerebellares
+- 小脳裂 fissurae cerebelli
+- 小脳回 folia cerebelli
+- 小脳窩 fossa cerebellaris
+- 小脳半球 hemispherium cerebelli
+- 小脳小舌 lingula cerebelli
+- 小脳前葉 lobus cerebelli anterior
+- 小脳後葉 lobus cerebelli posterior
+- 新小脳 neocerebellum
+- 小脳核 nuclei cerebelli
+- 小脳内側核 nucleus medialis cerebelli
+- 下小脳脚 pedunculus cerebellaris inferior
+- 中小脳脚 pedunculus cerebellaris medius
+- 上小脳脚 pedunculus cerebellaris superior
+- 脳橋 pons cerebelli
+- 橋小脳 pontocerebellum
+- 小脳テント tentorium cerebelli
+- 小脳扁桃 tonsilla cerebelli
+- 脊髄小脳路 tractus spinocerebellaris
+- 下小脳静脈 Vv. cerebelli inferior
+- 小脳延髄槽静脈 V. cisternae cerebellomedullaris
+- 上小脳半球静脈 Vv. superiores cerebelli
+- 小脳谷 vallecula cerebelli
+- 小脳虫部 vermis cerebelli

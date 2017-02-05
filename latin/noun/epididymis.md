@@ -1,0 +1,11 @@
+- 精巣上体垂 appendix epididymis
+- 精巣上体頭 caput epididymidis
+- 精巣上体尾 cauda epididymis
+- 精巣上体小葉円錐 coni epididymis
+- 精巣上体体 corpus epididymidis
+- 精巣上体管 ductus epididymidis
+- 精巣上体 epididymis
+- 下精巣上体間膜 ligamentum epididymidis inferius
+- 上精巣上体間膜 ligamentum epididymidis superius
+- 精巣上体小葉円錐 lobuli epididymis
+- 精巣上体洞 sinus epididymis
