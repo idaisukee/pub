@@ -1,0 +1,15 @@
+- 距骨下関節 articulatio subtalaris
+- 距骨下関節 articulatio talocalcanea
+- 距踵舟関節 articulatio talocalcaneonavicularis
+- 距腿関節 articulatio talocruralis
+- 前距骨関節面 facies articularis talaris anterior
+- 中距骨関節面 facies articularis talaris media
+- 後距骨関節面 facies articularis talaris posterior
+- 外側距踵靭帯 ligamentum talocalcaneum laterale
+- 内側距踵靭帯 ligamentum talocalcaneum mediale
+- 後距踵靭帯 ligamentum talocalcaneum posterius
+- 前距腓靭帯 ligamentum talofibulare anterius
+- 後距腓靭帯 ligamentum talofibulare posterius
+- 距舟靭帯 ligamentum talonaviculare
+- 前距腿部 regio talocruralis anterior
+- 距骨 talus

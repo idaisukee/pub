@@ -1,0 +1,85 @@
+- 顔面横動脈 A transversa faciei
+- 顔 facies
+- 面 facies
+- 前前腕面 facies antebrachialis anterior
+- 眼瞼前面 facies anterior palpebrae
+- 前内側面 facies anteromedialis
+- 肩峰関節面 facies articularis acromialis
+- 前関節面 facies articularis anterior
+- 披裂関節面 facies articularis arytenoidea
+- 前踵骨関節面 facies articularis calcanea anterior
+- 中踵骨関節面 facies articularis calcanea media
+- 肋骨頭関節面 facies articularis capitis costae
+- 腓骨頭関節面 facies articularis capitis fibulae
+- 手根関節面 facies articularis carpalis
+- 鎖骨関節面 facies articularis clavicularis
+- 腓骨関節面 facies artiuclaris fibularis
+- 下関節面 facies articularis inferior
+- 底側踵舟靭帯関節面 facies articularis ligamenti calcaneonavicularis plantaris
+- 内果関節面 facies articularis malleoli medialis
+- 舟状骨関節面 facies articularis navicularis
+- 後関節面 facies articularis posterior
+- 上関節面 facies articularis superior
+- 上関節面 facies articularis superior
+- 前距骨関節面 facies articularis talaris anterior
+- 中距骨関節面 facies articularis talaris media
+- 後距骨関節面 facies articularis talaris posterior
+- 甲状関節面 facies articularis thyroidea
+- 肋骨結節関節面 facies articularis tuberculi costae
+- 耳状面 facies auricularis
+- 前上腕面 facies brachialis anterior
+- 外側上腕面 facies brachialis lateralis
+- 内側上腕面 facies brachialis medialis
+- 後上腕面 facies brachialis posterior
+- 頬側面 facies buccalis
+- 大脳面 facies cerebralis
+- 肋骨面 facies costalis
+- 前下腿面 facies cruralis anterior
+- 外側下腿面 facies cruralis fibularis
+- 外側下腿面 facies cruralis lateralis
+- 内側下腿面 facies cruralis medialis
+- 後下腿面 facies cruralis posterior
+- 内側下腿面 facies cruralis tibialis
+- 横隔面 facies diaphragmatica
+- 遠心面 facies distalis
+- 外面 facies externa
+- 前大腿面 facies femoralis anterior
+- 外側大腿面 facies femoralis lateralis
+- 内側大腿面 facies femoralis medialis
+- 後大腿面 facies femoralis posterior
+- 胃面 facies gastrica
+- 殿筋面 facies glutea
+- 大脳下面 facies inferior cerebri
+- 側頭下面 facies infratemporalis
+- 葉間面 facies interlobaris
+- 後面 facies intestinalis
+- 口唇面 facies labialis
+- 外側面 facies lateralis
+- 月状面 facies lunata
+- 外果面 facies malleolaris lateralis
+- 内果面 facies malleolaris medialis
+- 上顎面 facies maxillaris
+- 内側面 facies medialis
+- 大脳内側面 facies medialis cerebri
+- 縦隔面 facies mediastinalis
+- 近心面 facies mesialis
+- 鼻腔面 facies nasalis
+- 口蓋面 facies palatina
+- 膝蓋面 facies patellaris
+- 前面 facies pelvica
+- 膝窩面 facies poplitea
+- 背側面 facies posterior
+- 眼瞼後面 facies posterior palpebrae
+- 右肺面 facies pulmonalis dextra
+- 左肺面 facies pulmonalis sinistra
+- 仙骨盤面 facies sacropelvica
+- 胸肋面 facies sternocostalis
+- 上面 facies superior
+- 大脳上外側面 facies superolateralis cerebri
+- 大脳上外側面 facies superolateralis hemispherii cerebri
+- 尿道面 facies urethralis
+- 臓側面 facies visceralis
+- 横隔面 facies diaphragmatica
+- 顔面骨 ossa faciei
+- 深顔面静脈 V. faciei profunda
+- 顔面横静脈 V. transversa faciei
