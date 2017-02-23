@@ -1,20 +1,28 @@
 #
 # 醫學學習用略語一覽
 B: bacterium
+BP: blood pressure
+BS: blood sugar
+DM: diabetes mellitus
 DO: direct object
 Dr: doctor
+HF: heart failure
 IO: indirect object
 LC: locative case
+RBC: red blood cell
 TB: tuberoculosis
+WBC: white blood cell
 a: active
 abl: able
 act: acute
+at: anti
 b: block
 bld: blood
 c: cell, cyte
 ccr: cancer
 ch: channel
 cidc: contraindication
+cre: cure
 cron: chronic
 d: drug
 dep: depend
@@ -30,6 +38,7 @@ fctr: factor
 fnct: function
 freq: frequent
 hi: high
+hrm: hormon
 hu: Hokkaido University
 hyperpol: hyperpolarize
 i: inhibit
@@ -50,6 +59,8 @@ nml: normal
 nr: neuron
 onc: oncoma
 p: protein
+panc: pancreas
+plt: platelet
 preg: pregnant
 qtt: quantity
 r: receive
@@ -59,10 +70,13 @@ rre: rare
 rt: rate
 s: stimulate
 smpt: symptom
+sptm: symptom
 str: strong
 strd: steroid
 syn: synapse
+synd: syndrome
 tdy: today
+thyr: thyroidea
 tp: transplant
 var: various
 vol: voltage

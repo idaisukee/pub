@@ -1,0 +1,9 @@
+- 前外果動脈 A malleolaris anterior lateralis
+- 前内果動脈 A malleolaris anterior medialis
+- 内果関節面 facies articularis malleoli medialis
+- 外果面 facies malleolaris lateralis
+- 内果面 facies malleolaris medialis
+- 外果窩 fossa malleoli lateralis
+- 外果 malleolus lateralis
+- 内果 malleolus medialis
+- 外果溝 sulcus malleolaris

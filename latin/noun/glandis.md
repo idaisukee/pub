@@ -1,0 +1,4 @@
+- 亀頭頚 collum glandis
+- 亀頭冠 corona glandis
+- 亀頭皮膚 cutis glandis
+- 亀頭中隔 septum glandis

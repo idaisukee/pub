@@ -1,0 +1,26 @@
+# vesica
+
+- 上膀胱動脈 Aa vesicales superiores
+- 膀胱尖 apex vesicae
+- 膀胱頚 cervix vesicae
+- 膀胱頚 collum vesicae
+- 胆嚢頚 collum vesicae biliaris/*collum vesicae felleae
+- 膀胱体 corpus vesicae
+- 胆嚢体 corpus vesicae felleae
+- 直腸膀胱窩 excavatio rectovesicalis
+- 胆嚢底 fundus vesicae biliaris
+- 膀胱底 fundus vesicae urinariae
+- 膀胱外側靭帯 ligamentum laterale vesicae
+- 恥骨膀胱筋 M pubovesicalis
+- 直腸膀胱筋 M rectovesicalis
+- 膀胱三角筋 Mm trigoni vesicae
+- 深膀胱三角筋 M trigoni vesicae profundus
+- 浅膀胱三角筋 M trigoni vesicae superficialis
+- 膀胱頚部 pars cervicis vesicae
+- 膀胱静脈叢 plexus venosus vesicalis
+- 膀胱神経叢 plexus vesicalis
+- 横膀胱ヒダ(襞) plica vesicalis transversa
+- 直腸膀胱中隔 septum rectovesicale
+- 膀胱三角 trigonum vesicae
+- 膀胱垂 uvula vesicae
+- 膀胱 vesica urinaria

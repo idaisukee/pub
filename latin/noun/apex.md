@@ -1,0 +1,18 @@
+- 尖 apex
+- 耳介尖 apex auriculae
+- 腓骨頭尖 apex capitis fibulae
+- 披裂軟骨尖 apex cartilaginis arytenoideae
+- 心尖 apex cordis
+- 後角尖 apex cornus posterioris
+- 咬頭尖 apex cuspidis
+- 歯突起尖 apex dentis
+- 舌尖 apex linguae
+- 鼻尖 apex nasi
+- 仙骨尖 apex ossis sacralis/*apex ossis sacri
+- 錐体尖 apex partis petrosae
+- 膝蓋骨尖 apex patellae
+- 前立腺尖 apex prostatae
+- 肺尖 apex pulmonis
+- 歯根尖|根尖 apex radicis dentis
+- 膀胱尖 apex vesicae
+- 心尖切痕 incisura apicis cordis

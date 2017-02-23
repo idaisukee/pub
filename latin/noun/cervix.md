@@ -1,0 +1,41 @@
+- 上行頚動脈 A cervicalis ascendens
+- 深頚動脈 A cervicalis profunda
+- 浅頚動脈 A cervicalis superficialis
+- 頚神経ワナ ansa cervicalis
+- 子宮頚管 canalis cervicis uteri
+- 頚 cervix
+- 歯頚 cervix dentis
+- 子宮頚 cervix uteri
+- 膀胱頚 cervix vesicae
+- 頚肋|頚肋骨 costa cervicalis/*costa colli
+- 頚筋膜 fascia cervicalis/*fascia colli
+- 中頚神経節 ganglion cervicale medium
+- 上頚神経節 ganglion cervicale superius
+- 頚胸神経節 ganglion cervicothoracicum
+- 子宮頚腺 glandulae cervicales
+- 頚膨大 intumescentia cervicalis
+- 恥骨頚靭帯 ligamentum pubocervicale
+- 子宮頚横靭帯 ligamentum transversum cervicis
+- 頚部の筋 Mm cervicis
+- 頚腸肋筋 M iliocostalis cervicis
+- 頚棘間筋 Mm interspinales cervicis
+- 頚最長筋 M longissimus cervicis
+- 頚長筋 M longus cervicis
+- 頚半棘筋 M semispinalis cervicis//M. semispinalis colli
+- 頚板状筋 M splenius cervicis
+- 頚棘筋 M spinalis cervicis//M. spinalis colli
+- 上頚心臓神経 N cardiacus cervicalis superior
+- 頚神経 Nn cervicales
+- 外側頚リンパ節 nodi cervicales laterales
+- 頚部 pars cervicalis
+- 膀胱頚部 pars cervicis vesicae
+- 頭頚部 pars craniocervicalis
+- 頚神経叢 plexus cervicalis
+- 後頚神経叢 plexus cervicalis posterior
+- 下頚心臓枝 rami cardiaci cervicales inferiores
+- 前頚部 regio cervicalis anterior
+- 前頚三角 trigonum cervicale anterius/*trigonum colli anterius
+- 肋頚動脈 truncus costocervicalis
+- 深頚静脈 V. cervicalis profunda
+- 頚横静脈 Vv. transversae cervicis
+- 頚椎 vertebrae cervicales

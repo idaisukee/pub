@@ -1,0 +1,19 @@
+- 上尺側側副動脈 A collateralis ulnaris superior
+- 尺側反回動脈 A recurrens ulnaris
+- 尺骨動脈 A ulnaris
+- 腕尺関節 articulatio humeroulnaris
+- 下橈尺関節 articulatio radioulnaris distalis
+- 上橈尺関節 articulatio radioulnaris proximalis
+- 上腕尺骨頭 caput humeroulnare
+- 尺骨頭 caput ulnae
+- 尺骨頭 caput ulnare
+- 尺骨体 corpus ulnae
+- 尺骨切痕 incisura ulnaris
+- 尺側手根伸筋 M extensor carpi ulnaris
+- 尺側手根屈筋 M flexor carpi ulnaris
+- 尺側縁 margo ulnaris
+- 尺骨神経 N ulnaris
+- 内側二頭筋溝 sulcus bicipitalis ulnaris
+- 尺骨粗面 tuberositas ulnae
+- 尺骨 ulna
+- 尺骨静脈 Vv. ulnares

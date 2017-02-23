@@ -1,0 +1,10 @@
+- 槽 cisterna
+- 外側小脳延髄槽 cisterna cerebellomedullaris lateralis
+- 後小脳延髄槽 cisterna cerebellomedullaris posterior
+- 交叉槽 cisterna chiasmatica
+- 大脳外側窩槽 cisterna fossae lateralis cerebri
+- 脚間槽 cisterna interpeduncularis
+- 腰椎槽 cisterna lumbalis
+- 脳梁周[囲]槽 cisterna pericallosa
+- 橋小脳槽 cisterna pontocerebellaris
+- 小脳延髄槽静脈 V. cisternae cerebellomedullaris

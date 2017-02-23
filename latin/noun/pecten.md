@@ -1,0 +1,3 @@
+- 櫛 pecten
+- 肛門櫛 pecten analis
+- 恥骨櫛 pecten ossis pubis

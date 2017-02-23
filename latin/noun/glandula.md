@@ -1,0 +1,57 @@
+- 腺 glandula
+- 乳輪腺 glandulae areolares
+- 頬腺 glandulae buccales
+- 尿道球腺 glandula bulbo-urethralis
+- 噴門腺 glandulae cardiacae
+- 耳道腺 glandula ceruminosa
+- 子宮頚腺 glandulae cervicales
+- 睫毛腺 glandulae ciliares
+- 肛門周囲腺 glandula circumanalis
+- 結膜腺 glandulae conjunctivales
+- 十二指腸腺 glandulae duodenales
+- 固有胃腺 glandulae gastricae propriae
+- 腸腺 glandulae intestinales
+- 口唇腺 glandulae labiales
+- 涙腺 glandula lacrimalis
+- 副涙腺 glandulae lacrimales accessoriae
+- 喉頭腺 glandulae laryngeales
+- 舌腺 glandulae linguales
+- 乳腺 glandula mammaria
+- 臼歯腺 glandulae molares
+- 粘液腺 glandula mucosa
+- 食道腺 glandulae oesophageae
+- 嗅腺 glandulae olfactoriae
+- 口腔腺 glandulae oris
+- 副上皮小体、副副甲状腺 glandulae parathyroideae accessoriae
+- 下上皮小体、下副甲状腺 glandula parathyroidea inferior
+- 上上皮小体、上副甲状腺 glandula parathyroidea superior
+- 耳下腺 glandula parotis
+- 副耳下腺 glandula parotidea accessoria
+- 咽頭腺 glandulae pharyngeae
+- 松果体 glandula pinealis
+- 下垂体 glandula pituitaria
+- 口蓋腺 glandulae palatinae
+- 包皮腺 glandulae preputiales
+- 幽門腺 glandulae pyloricae
+- 脂腺、皮脂腺† glandulae sebaceae
+- 精嚢腺 glandula seminalis
+- 混合腺 glandula seromucosa
+- 漿液腺 glandula serosa
+- 舌下腺 glandula sublingualis
+- 顎下腺 glandula submandibularis
+- 副腎、腎小体 glandula suprarenalis
+- 汗腺 glandula sudorifera
+- 副腎 glandula suprarenalis
+- 瞼板腺 glandulae tarsales
+- 甲状腺 glandula thyroidea
+- 耳管腺 glandulae tubariae
+- 尿道腺 glandula urethralis
+- 子宮腺 glandula uterinae
+- 精嚢腺 glandula vesiculosa
+- 大前庭腺 glandula vestibularis major
+- 小前庭腺 glandula vestibularis minor
+- 甲状腺峡部 isthmus glandulae thyroideae
+- 甲状腺提靭帯 ligamentum suspensorium glandulae thyreoideae
+- 乳腺小葉 lobuli glandulae mammariae
+- 乳腺葉 lobi glandulae mammariae
+- 腺枝 rami glandulares

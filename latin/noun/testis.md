@@ -1,0 +1,10 @@
+- 精巣動脈 A testicularis
+- 精巣垂 appendix testis
+- 精巣輸出管 ductuli efferentes testis
+- 精巣縦隔 mediastinum testis
+- 精巣動脈神経叢 plexus testicularis
+- 精巣網 rete testis
+- 精巣中隔 septula testis
+- 精巣鞘膜 tunica vaginalis testis
+- 右精巣静脈 V. testicularis dextra
+- 左精巣静脈 V. testicularis sinistra

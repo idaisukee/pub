@@ -1,0 +1,42 @@
+# 大腿骨 femur
+
+- 内側大腿回旋動脈 A circumflexa femoris medialis
+- 大腿動脈 A femoralis
+- 大腿骨栄養動脈 Aa. nutriciae femoris
+- 大腿深動脈 A profunda femoris
+- 股関節 articulatio coxae/*articulatio coxofemoralis
+- 大腿管 canalis femoralis
+- 大腿骨頭 caput femoris
+- 大腿骨頚 collum femoris
+- 大腿骨体 corpus femoris
+- 前大腿面 facies femoralis anterior
+- 外側大腿面 facies femoralis lateralis
+- 内側大腿面 facies femoralis medialis
+- 後大腿面 facies femoralis posterior
+- 大腿骨頭窩 fovea capitis femoris
+- 大腿骨頭靭帯 ligamentum capitis femoris
+- 坐骨大腿骨靭帯 ligamentum ischiofemorale
+- 前半月大腿靭帯 ligamentum meniscofemorale anterius
+- 後半月大腿靭帯 ligamentum meniscofemorale posterius
+- 恥骨大腿骨靭帯 ligamentum pubofemorale
+- 大腿二頭筋 M biceps femoris
+- 大腿方形筋 M quadratus femoris
+- 大腿四頭筋 M quadriceps femoris
+- 大腿直筋 M rectus femoris
+- 外側大腿皮神経 N cutaneus femoris lateralis
+- 後大腿皮神経 N cutaneus femoris posterior
+- 大腿神経 N femoralis
+- 陰部大腿神経 N genitofemoralis
+- 大腿方形筋神経 N musculi quadrati femoris
+- 大腿骨 os femoris
+- 大腿動脈神経叢 plexus femoralis
+- 大腿部 regio femoris
+- 前大腿部 regio femoris anterior
+- 後大腿部 regio femoris posterior
+- 大腿輪中隔 septum femorale
+- 外側大腿筋間中隔 septum intermusculare femoris laterale
+- 内側大腿筋間中隔 septum intermusculare femoris mediale
+- 大腿三角 trigonum femorale
+- 内側大腿回旋静脈 Vv. circumflexae femoris mediales
+- 大腿静脈 V. femoralis
+- 大腿深静脈 V profunda femoris

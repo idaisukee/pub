@@ -1,0 +1,26 @@
+# 十二指腸 duodenum
+
+- 胃十二指腸動脈 A gastroduodenalis
+- 十二指腸後動脈 Aa. retroduodenales
+- 十二指腸球部 bulbus duodeni
+- 十二指腸 duodenum
+- 下十二指腸曲 flexura duodeni inferior
+- 十二指腸空腸曲 flexura duodenojejunalis
+- 十二指腸腺 glandulae duodenales
+- 十二指腸圧痕 impressio duodenalis
+- 十二指腸 intestinum duodenum
+- 肝十二指腸間膜 ligamentum hepatoduodenale
+- 十二指腸提筋 ligamentum suspensorium duodeni
+- 十二指腸提筋 M suspensorius duodeni
+- 大十二指腸乳頭 papilla duodeni major
+- 小十二指腸乳頭 papilla duodeni minor
+- 十二指腸被蓋部 pars tecta duodeni
+- 下十二指腸ヒダ(襞) plica duodenalis inferior
+- 上十二指腸ヒダ(襞) plica duodenalis superior
+- 十二指腸縦ヒダ(襞) plica longitudinalis duodeni
+- 十二指腸傍ヒダ(襞) plica paraduodenalis
+- 下十二指腸陥凹 recessus duodenalis inferior
+- 上十二指腸陥凹 recessus duodenalis superior
+- 十二指腸傍陥凹 recessus paraduodenalis
+- 膵十二指腸静脈 Vv. pancreaticoduodenales
+- 後上膵十二指腸静脈 V. pancreaticoduodenalis superior posterior

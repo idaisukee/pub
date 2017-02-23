@@ -1,0 +1,33 @@
+- 仙結節靭帯 ligamentum sacrotuberale
+- 隆起核 nuclei tuberales
+- 外側隆起核 nuclei tuberales laterales
+- 隆起乳頭体核 nucleus tuberomammillaris
+- 隆起部 pars tuberalis
+- 隆起 protuberantia
+- オトガイ隆起 protuberantia mentalis
+- 外後頭隆起 protuberantia occipitalis externa
+- 内後頭隆起 protuberantia occipitalis interna
+- 隆起 tuber
+- 踵骨隆起 tuber calcanei
+- 灰白隆起 tuber cinereum
+- 前頭結節 tuber frontale
+- 坐骨結節 tuber ischiadicum
+- 上顎結節 tuber maxillae
+- 小網隆起 tuber omentale
+- 小網隆起 tuber omentale
+- 恥骨結節 tuber pubicum
+- 虫部隆起 tuber vermis
+- 粗面 tuberositas
+- 三角筋粗面 tuberositas deltoidea
+- 殿筋粗面 tuberositas glutea
+- 腸骨粗面 tuberositas iliaca
+- 烏口鎖骨靭帯粗面 tuberositas ligamenti coracoclavicularis
+- 咬筋粗面 tuberositas masseterica
+- 立方骨粗面 tuberositas ossis cuboidei
+- 舟状骨粗面 tuberositas ossis navicularis
+- 仙骨粗面 tuberositas ossis sacri
+- 回内筋粗面 tuberositas pronatoria
+- 翼突筋粗面 tuberositas pterygoidea
+- 橈骨粗面 tuberositas radii
+- 脛骨粗面 tuberositas tibiae
+- 尺骨粗面 tuberositas ulnae

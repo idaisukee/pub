@@ -1,0 +1,8 @@
+- 気管分岐部 bifurcatio tracheae
+- 気管軟骨 cartilagines tracheales
+- 気管前葉 lamina pretrachealis
+- 輪状気管靭帯 ligamentum cricotracheale
+- [[解]]輪状靭帯 ligamenta trachealia
+- 気管筋 M trachealis
+- 気管 trachea
+- 気管静脈 Vv. tracheales

@@ -1,0 +1,21 @@
+# 膵 pancreatis
+
+- 膵尾動脈 A caudae pancreatis
+- 後膵動脈 A pancreatica dorsalis
+- 胆膵管膨大部 ampulla hepatopancreatica
+- 膵頭 caput pancreatis
+- 膵尾 cauda pancreatis
+- 膵体 corpus pancreatis
+- 膵管 ductus pancreaticus
+- 副膵管 ductus pancreaticus accessorius
+- 膵切痕 incisura pancreatis
+- 膵結腸間膜 ligamentum pancreaticocolicum
+- 膵脾間膜 ligamentum pancreaticosplenicum
+- 膵管括約筋 M sphincter ductus pancreatici
+- 膵臓 pancreas
+- 膵神経叢 plexus pancreaticus
+- 胃膵ヒダ(襞) plica gastropancreatica
+- 肝膵ヒダ(襞) plica hepatopancreatica
+- 膵静脈 Vv. pancreaticae
+- 膵十二指腸静脈 Vv. pancreaticoduodenales
+- 後上膵十二指腸静脈 V. pancreaticoduodenalis superior posterior

@@ -1,0 +1,60 @@
+- 背側指動脈|背側趾動脈 Aa. digitales dorsales
+- 陰核背動脈 A dorsalis clitoridis
+- 鼻背動脈 A dorsalis nasi
+- 足背動脈 A dorsalis pedis
+- 陰茎背動脈 A dorsalis penis
+- 肩甲背動脈 A dorsalis scapulae
+- 背側中手動脈 Aa. metacarpales dorsales
+- 背側中足動脈 Aa. metatarseae dorsales
+- 後膵動脈 A pancreatica dorsalis
+- 胸背動脈 A thoracodorsalis
+- 足背静脈弓 arcus venosus dorsalis pedis
+- 広背筋の腱下包 bursa subtendinea musculi latissimi dorsi
+- 脊索 chorda dorsalis
+- 背 dorsum
+- 舌背 dorsum linguae
+- 手背 dorsum manus
+- 鼻背 dorsum nasi
+- 足背 dorsum pedis
+- 陰茎背 dorsum penis
+- 鞍背 dorsum sellae
+- 手背筋膜 fascia dorsalis manus
+- 足背筋膜 fascia dorsalis pedis
+- 背側縦束 fasciculus longitudinalis dorsalis
+- 蓋板 lamina dorsalis
+- 背側踵立方靭帯 ligamentum calcaneocuboideum dorsale
+- 背側手根中手靭帯 ligamenta carpometacarpalia dorsalia
+- 背側立方舟靭帯 ligamentum cuboideonaviculare dorsale
+- 背側楔立方靭帯 ligamentum cuneocuboideum dorsale
+- 背側楔舟靭帯 ligamenta cuneonavicularia dorsalia
+- 背側楔間靭帯 ligamenta intercuneiformia dorsalia
+- 背側中手靭帯 ligamenta metacarpalia dorsalia
+- 背側中足靭帯 ligamenta metatarsalia dorsalia
+- 背側橈骨手根靭帯 ligamentum radiocarpale dorsale
+- 背側傍片葉 lobulus parafloccularis dorsalis
+- 背部の筋 Mm dorsi
+- 広背筋 M latissimus dorsi
+- 中間足背皮神経 N cutaneus dorsalis intermedius
+- 外側足背皮神経 N cutaneus dorsalis lateralis
+- 足背指神経 Nn digitales dorsales pedis
+- 陰核背神経 N dorsalis clitoridis
+- 陰茎背神経 N dorsalis penis
+- 肩甲背神経 N dorsalis scapulae
+- 胸背神経 N thoracodorsalis
+- 背側乳頭体前核 nucleus premammillaris dorsalis
+- 後肢 rami dorsales
+- 舌背枝 rami dorsales linguae
+- 手背部 regio dorsalis manus
+- 足背部 regio dorsalis pedis
+- 背側手根動脈網 rete carpale dorsale
+- 手背静脈網 rete venosum dorsale manus
+- 足背静脈網 rete venosum dorsale pedis
+- 背側結節 tuberculum dorsale
+- 浅陰核背静脈 Vv. dorsales clitoridis superficiales
+- 深陰核背静脈 V. dorsalis profunda clitoridis
+- 舌背静脈 Vv. dorsales linguae
+- 深陰茎背静脈 V. dorsalis profunda penis
+- 背側中手静脈 Vv. metacarpeae dorsales
+- 背側中足静脈 Vv. metatarseae dorsales
+- 背側肩甲静脈 V. scapularis dorsalis
+- 胸背静脈 V. thoracodorsalis
