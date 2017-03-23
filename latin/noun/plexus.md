@@ -1,0 +1,68 @@
+- 単関節 articulatio simplex
+- 単脚 crus membranaceum simplex
+- 叢 plexus
+- 腹大動脈神経叢 plexus aorticus abdominalis
+- 胸大動脈神経叢 plexus aorticus thoracicus
+- 自律神経叢 plexus autonomicus
+- 脳底静脈叢 plexus basilaris
+- 腕神経叢 plexus brachialis
+- 心臓神経叢 plexus cardiacus
+- 総頚動脈神経叢 plexus caroticus communis
+- 内頚動脈神経叢 plexus caroticus internus
+- 海綿静脈洞神経叢 plexus cavernosus
+- 鼻甲介海綿叢 plexus cavernosus conchae
+- 頚神経叢 plexus cervicalis
+- 後頚神経叢 plexus cervicalis posterior
+- 脈絡叢 plexus choroideus
+- 第四脳室脈絡叢 plexus choroideus ventriculi quarti
+- 尾骨神経叢 plexus coccygeus
+- 腹腔神経叢 plexus coeliacus
+- 精管神経叢 plexus deferentialis
+- 腸管神経叢 plexus entericus
+- 食道叢 plexus esophageus
+- 大腿動脈神経叢 plexus femoralis
+- 胃神経叢 plexus gastricus
+- 肝神経叢 plexus hepaticus
+- 下下腹神経叢 plexus hypogastricus inferior
+- 上下腹神経叢 plexus hypogastricus superior
+- 腸間膜動脈間神経叢 plexus intermesentericus
+- 脾神経叢 plexus lienalis
+- 腰神経叢 plexus lumbalis
+- 腰仙骨神経叢 plexus lumbosacralis
+- 下腸間膜動脈神経叢 plexus mesentericus inferior
+- 上腸間膜動脈神経叢 plexus mesentericus superior
+- 筋層間神経叢 plexus myentericus
+- 膵神経叢 plexus pancreaticus
+- 咽頭静脈叢 plexus pharyngeus
+- 骨盤神経叢 plexus plevicus
+- 動脈周囲神経叢 plexus periarterialis
+- 前立腺神経叢 plexus prostaticus
+- 翼突筋静脈叢 plexus pteryoideus
+- 肺神経叢 plexus pulmonalis
+- 下直腸動脈神経叢 plexus rectalis inferior
+- 仙骨神経叢 plexus sacralis
+- 脾神経叢 plexus splenicus
+- 鎖骨下動脈神経叢 plexus subclavius
+- 副腎神経叢 plexus suprarenalis
+- 精巣動脈神経叢 plexus testicularis
+- 不対甲状腺静脈叢 plexus thyroideus impar
+- 鼓室神経叢 plexus tympanicus
+- 尿管神経叢 plexus uretericus
+- 子宮膣神経叢 plexus uterovaginalis
+- 血管神経叢 plexus vascularis
+- 静脈叢 plexus venosus
+- 乳輪静脈層 plexus venosus areolaris
+- 舌下神経管静脈叢 plexus venosus canalis nervi hypoglossi
+- 卵円孔静脈叢 plexus venosus foraminis ovalis
+- 前立腺静脈叢 plexus venosus prostaticus
+- 仙骨静脈叢 plexus venosus sacralis
+- 後頭下静脈叢 plexus venosus suboccipitalis
+- 子宮静脈叢 plexus venosus uterinus
+- 膀胱静脈叢 plexus venosus vesicalis
+- 前外椎骨静脈叢 plexus venosus vertebralis externus anterior
+- 後外椎骨静脈叢 plexus venosus vertebralis externus posterior
+- 前内椎骨静脈叢 plexus venosus vertebralis internus anterior
+- 後内椎骨静脈叢 plexus venosus vertebralis internus posterior
+- 椎骨動脈神経叢 plexus vertebralis
+- 膀胱神経叢 plexus vesicalis
+- 内臓神経叢 plexus visceralis
