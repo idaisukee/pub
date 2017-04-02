@@ -1,5 +1,7 @@
 # 参照する PDF
 
+https://drive.google.com/drive/folders/0B0Pw7zt-Iy8oUG9yUUFtaUloUUE にあります。
+
 # 作ってほしいファイル
 
 ## どの週にどの科に行くかの予定
