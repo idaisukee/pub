@@ -95,6 +95,6 @@ vis, -is 力
 
 本エントリを書くために、
 
-[http://www.amazon.co.jp/gp/product/4560017611?ie=UTF8&camp=1207&creative=8411&creativeASIN=4560017611&linkCode=shr&tag=hon3m-22&qid=1426533544&sr=8-1&keywords=%E6%A8%99%E6%BA%96%E3%83%A9%E3%83%86%E3%83%B3#customerReviews:title]
+中山 恒夫『標準ラテン文法』 [http://www.amazon.co.jp/gp/product/4560017611?ie=UTF8&camp=1207&creative=8411&creativeASIN=4560017611&linkCode=shr&tag=hon3m-22&qid=1426533544&sr=8-1&keywords=%E6%A8%99%E6%BA%96%E3%83%A9%E3%83%86%E3%83%B3#customerReviews:title]
 
 を参照しました。いま日本語で読めるラテン語の文法書のなかで、名詞第3曲用の解説はこの本が最も優れていると思います。私が読んだ本のなかで、この本は唯一、子音幹・純粋i幹・混合i幹を判別する方法を明晰に書き下していた本です。
