@@ -29,6 +29,7 @@ http://kakaku.com/item/K0000959228/
 - 3300 do Ah
 - storage 128 ga B
 - RAM 8 ga B
+- nano SIM
 
 ## Zenfone Laser 2, Z00ED, ZE500KL について調べる．
 
@@ -38,9 +39,19 @@ https://www.asus.com/jp/Phone/ZenFone-2-Laser-ZE500KL/specifications/
 - 2400 do Ah
 - storage 16 ga B
 - RAM 2 ga B
+- micro SIM
 
 # Twitter account を分離する．
 
 # Tablet を買ふ．
+
+# iPad Pro, 10.5 in, Wi-Fi, 512 ga B について調べる．
+
+http://kakaku.com/item/J0000024841/
+
+- 10.5 in
+- Apple A10X
+- 512 ga B
+
 
 # Kindle の商品を買ふ．
