@@ -1,10 +1,8 @@
 todo
 ===
 
-# x40d に Ruby 2.4 を入れる． done
 # 外國派遣について調べる．
 # 江東稚堂用の聽診器を買ふ．
-# 登山の寫真を upload する． done
 # 登山の總括を書く．
 
 # Smartphone を買ふ．
@@ -92,3 +90,6 @@ https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwiUo
 
 ## Nexus 7 について調べる．
 # Kindle の商品を買ふ．
+
+# x40d に Ruby 2.4 を入れる． done
+# 登山の寫真を upload する． done
