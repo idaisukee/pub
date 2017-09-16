@@ -50,11 +50,23 @@ http://little-beans.net/review/yogabook-win-01/
 
 #### GNURoot Debian について調べる．
 
+#### Termux について調べる．
+
 ### Bash on Windows で Emacs を使へるのか．
 
 https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwiUo5fZ26PWAhWHF5QKHQidAJwQFgg0MAI&url=http%3A%2F%2Fqiita.com%2Fnanasess%2Fitems%2F6b731c933ebcd9b1c95a&usg=AFQjCNFScGZV3-NbWbWIVYagLw9WYKU01g
 
-## Nexus 7 について調べる．
+## Nexus 7 ( 2013 ) について調べる．
+
+http://kakaku.com/item/K0000566227/
+
+- APQ 8064 QuadCore 1.5GHz
+- 7.02 in
+- storage 16 ga B
+- RAM 2 ga B
+- 3950 do Ah
+- 290 fo t
+
 # Kindle の商品を買ふ．
 
 # x40d に Ruby 2.4 を入れる． done
