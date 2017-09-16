@@ -42,7 +42,7 @@ http://trendy.nikkeibp.co.jp/atcl/coltop/15/118183/112400059/
 
 http://little-beans.net/review/yogabook-win-01/
 
-市販の紙で代用できる．
+市販の紙も使用できる．
 
 ### Android で key remap はできるのか．
 
