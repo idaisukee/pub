@@ -3,9 +3,55 @@ todo
 
 # 外國派遣について調べる．
 # 江東稚堂用の聽診器を買ふ．
+
+## 札幌用の聽診器の品番を調べる．
+
+## 札幌用の聽診器の ear piece があるか調べる．
+
 # 登山の總括を書く．
+# 夏の雨の日用の靴を買ふ．
+# 服を買ふ．
+
+# Hem の report を書く．
 
 # Twitter account を分離する．
+
+# 本を賣る．
+
+## 寫真を用意する．
+
+# HDD を 吸ひ出す．
+
+
+# Nexus 7 ( 2013 ) に Termux 等を install する．
+
+## Termux
+
+## Xmodmap
+
+## Emacs
+
+## TexLive
+
+## anyenv
+
+## rbenv
+
+## Ruby
+
+## fonts
+
+# Smartphone の移行
+
+## LINE
+
+### 方法を調べる．
+
+### 實行する．
+
+
+## cable 購入
+
 
 # Tablet を買ふ．
 
@@ -43,6 +89,8 @@ http://trendy.nikkeibp.co.jp/atcl/coltop/15/118183/112400059/
 http://little-beans.net/review/yogabook-win-01/
 
 市販の紙も使用できる．
+
+## Tablet を PC のやうに使ふ方法を調べる．
 
 ### Android で key remap はできるのか．
 
