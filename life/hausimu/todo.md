@@ -15,7 +15,7 @@ todo
 
 # 登山の總括を書く．
 
-# Hem の report を書く．
+# Hem の report を書く． done
 
 # Twitter account を分離する．
 
@@ -46,14 +46,14 @@ todo
 
 # Smartphone の移行
 
-## LINE
+## LINE done
 
 ### 方法を調べる．
 
 ### 實行する．
 
 
-## cable 購入
+## cable 購入 done
 
 
 # Tablet を買ふ．
@@ -120,3 +120,4 @@ http://kakaku.com/item/K0000566227/
 
 # Kindle の商品を買ふ．
 
+# bundler を install する．
