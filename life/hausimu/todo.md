@@ -118,8 +118,6 @@ http://kakaku.com/item/K0000566227/
 
 # Kindle の商品を買ふ．
 
-# bundler を install する．
-
 # 講義資料を處分する．
 
 ## Scan 代行業者を探す．
