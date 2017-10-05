@@ -1,7 +1,15 @@
 todo
 ===
 
+# porter を修理に出す．
+
+## 窗口を調べる．
+
+LOFT, 大丸．
+
 # 生協 prepaid card に charge する．
+
+## 現金を用意する． done
 
 # 外國派遣について調べる．
 
@@ -125,3 +133,20 @@ http://kakaku.com/item/K0000566227/
 ## 業者を探す．
 
 # 蔦屋に住所を登錄する．
+
+# 『病気がみえる』を購入する．
+
+## 價格を調べる．
+
+https://www.medilink-study.com/
+
+31 da JPY
+
+# 『イヤーノート』を購入する．
+
+
+## 價格を調べる．
+
+https://www.medilink-study.com/
+
+23 da JPY
