@@ -47,8 +47,6 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 
 
-# Smartphone の移行
-
 # Tablet を買ふ．
 
 ## iPad Pro, 10.5 in, Wi-Fi, 512 ga B について調べる．
