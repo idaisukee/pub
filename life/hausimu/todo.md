@@ -41,8 +41,6 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 ## 發送する．
 
-# 古本募金に協力する．
-
 # HDD を 吸ひ出す．
 
 
