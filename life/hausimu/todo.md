@@ -7,6 +7,8 @@ todo
 
 LOFT, 大丸．
 
+## 持つてゆく
+
 # 生協 prepaid card に charge する．
 
 ## 現金を用意する． done
