@@ -46,23 +46,6 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 # HDD を 吸ひ出す．
 
 
-# Nexus 7 ( 2013 ) に Termux 等を install する．
-
-## Termux
-
-## Xmodmap
-
-## Emacs
-
-## TexLive
-
-## anyenv
-
-## rbenv
-
-## Ruby
-
-## fonts
 
 # Smartphone の移行
 
