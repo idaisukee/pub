@@ -3,7 +3,7 @@ todo
 
 # porter を修理に出す．
 
-## 窗口を調べる．
+## 窗口を調べる． done
 
 LOFT, 大丸．
 
@@ -29,7 +29,11 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 ## 札幌用の聽診器の ear piece があるか調べる．
 
+### 棚を整理する．
+
 # 登山の總括を書く．
+
+## memo を用意する．
 
 # Twitter account を分離する．
 
@@ -39,7 +43,9 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 ## 出品する． done
 
-## 發送する．
+## 發送する． done
+
+## 入金確認する．
 
 # HDD を 吸ひ出す．
 
@@ -84,13 +90,17 @@ http://little-beans.net/review/yogabook-win-01/
 
 ## Tablet を PC のやうに使ふ方法を調べる．
 
-### Android で key remap はできるのか．
+### Android で key remap はできるのか． done
 
-### Linux を使へるのか．
+できる．
 
-#### GNURoot Debian について調べる．
+### Linux を使へるのか．done
 
-#### Termux について調べる．
+できる．
+
+#### GNURoot Debian について調べる． done
+
+#### Termux について調べる． done
 
 ### Bash on Windows で Emacs を使へるのか．
 
@@ -107,13 +117,13 @@ http://kakaku.com/item/K0000566227/
 - 3950 do Ah
 - 290 fo t
 
-# 講義資料を處分する．
+# 講義資料を處分する． done
 
 # 浴室掃除をする．
 
 ## 業者を探す．
 
-# 蔦屋に住所を登錄する．
+# 蔦屋に住所を登錄する． done
 
 # 『病気がみえる』を購入する．
 
@@ -131,3 +141,21 @@ https://www.medilink-study.com/
 https://www.medilink-study.com/
 
 23 da JPY
+
+# 道之絆の menu を更新する． done
+
+# 罐 coffee を買ふ．
+
+# 『學問のすすめ』の外來語の memo を探す．
+
+# 同窗會參加の準備をする． done
+
+## 日程を決める．
+
+## 航空便の ticket を買ふ．
+
+# 運送會社に電話する． done 
+
+## 番號を調べる．
+
+
