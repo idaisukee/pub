@@ -1,14 +1,6 @@
 todo
 ===
 
-# porter を修理に出す．
-
-## 窗口を調べる． done
-
-LOFT, 大丸．
-
-## 持つてゆく
-
 # 生協 prepaid card に charge する．
 
 ## 現金を用意する． done
@@ -117,13 +109,9 @@ http://kakaku.com/item/K0000566227/
 - 3950 do Ah
 - 290 fo t
 
-# 講義資料を處分する． done
-
 # 浴室掃除をする．
 
 ## 業者を探す．
-
-# 蔦屋に住所を登錄する． done
 
 # 『病気がみえる』を購入する．
 
@@ -142,20 +130,9 @@ https://www.medilink-study.com/
 
 23 da JPY
 
-# 道之絆の menu を更新する． done
-
 # 罐 coffee を買ふ．
 
 # 『學問のすすめ』の外來語の memo を探す．
 
-# 同窗會參加の準備をする． done
-
-## 日程を決める．
-
-## 航空便の ticket を買ふ．
-
-# 運送會社に電話する． done 
-
-## 番號を調べる．
 
 
