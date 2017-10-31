@@ -134,5 +134,9 @@ https://www.medilink-study.com/
 
 # 『學問のすすめ』の外來語の memo を探す．
 
+# 換配所の整備
 
+## 空間を作る．
+
+## 
 
