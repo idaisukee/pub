@@ -1,6 +1,14 @@
 todo
 ===
 
+# memo を scan する．
+
+# scan data を整理する．
+
+## programming 本を 1 dir にまとめる．
+
+# 
+
 # 外國派遣について調べる．
 
 ## 便覽を讀む．
@@ -120,5 +128,5 @@ https://www.medilink-study.com/
 
 ## 空間を作る．
 
-## 
+### tape を注文する．
 
