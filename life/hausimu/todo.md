@@ -1,10 +1,6 @@
 todo
 ===
 
-# 生協 prepaid card に charge する．
-
-## 現金を用意する． done
-
 # 外國派遣について調べる．
 
 ## 便覽を讀む．
@@ -29,19 +25,7 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 # Twitter account を分離する．
 
-# 本を賣る．
-
-## 寫真を用意する． done
-
-## 出品する． done
-
-## 發送する． done
-
-## 入金確認する．
-
 # HDD を 吸ひ出す．
-
-
 
 # Tablet を買ふ．
 
@@ -129,8 +113,6 @@ https://www.medilink-study.com/
 https://www.medilink-study.com/
 
 23 da JPY
-
-# 罐 coffee を買ふ．
 
 # 『學問のすすめ』の外來語の memo を探す．
 
