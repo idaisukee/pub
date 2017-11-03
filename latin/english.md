@@ -1,4 +1,5 @@
 解剖学英語の不合理な点
+===
 
 言語に優劣はない。ラテン語と英語に関し、どちらが良いとか優れていると言うことは本来できない。ラテン語にはラテン語の、英語には英語の、それぞれその言語の培ってきた文化があり、それぞれを尊重すべきである。
 
@@ -8,7 +9,7 @@
 
  
 
-系統的でない呼称
+# 系統的でない呼称
 
 肝臓・肝静脈・肝管をそれぞれ英語で言うと、
 
@@ -22,7 +23,7 @@ hepar, vena hepatica, ductus hepaticus
 
  
 
-不完全な訳
+# 不完全な訳
 
 長内転筋を英語では adductor longus muscle と言う。Longus はラテン語の「musculs adductor longus」からそのまま流用したものである。英語の解剖学用語を作った人はなぜこれを「long」に訳さなかったのだろうか。さらに言えば、英語では形容詞は名詞より前に来るのが本則なのだから、「long adductor muscle」になるべきである。
 
@@ -32,7 +33,7 @@ hepar, vena hepatica, ductus hepaticus
 
  
 
- 語順のゆれ
+# 語順のゆれ
 
  
 
@@ -44,22 +45,14 @@ hepar, vena hepatica, ductus hepaticus
 
  
 
-vena cava
-
-zona incerta
-
-lamina affixa
-
-stria terminalis
-
-corona radiata
-
-nervi erigentes
-
-foramen cecum
-
-ansa lenticularis
-
+- vena cava
+- zona incerta
+- lamina affixa
+- stria terminalis
+- corona radiata
+- nervi erigentes
+- foramen cecum
+- ansa lenticularis
  
 
 があり、このほかにも多数ある。

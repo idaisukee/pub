@@ -1,8 +1,9 @@
-# 名詞第1曲用
+名詞第1曲用
+===
 
 第1曲用は、AとBとCに分類される。Aが多数であり、B, Cはごく少数である。
 
-## A a, ae, ae, arum の型
+# A a, ae, ae, arum の型
 
 名詞 arteria (動脈) は次のように曲用される：
 
@@ -24,7 +25,7 @@ a, ae, ae, arum
 
   
 
-### 練習問題A
+## 練習問題A
 
 次の第1曲用Aの名詞を曲用せよ。
 
@@ -54,7 +55,7 @@ a, ae, ae, arum
 
  
 
-## B e, ae, es, arum の型
+# B e, ae, es, arum の型
 
  
 
@@ -71,7 +72,7 @@ raphe (縫線) がこれに属する。
 
  
 
-## C es, ae, ae, arum の型
+# C es, ae, ae, arum の型
 
  
 
