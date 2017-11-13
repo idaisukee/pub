@@ -5,10 +5,6 @@ todo
 
 # scan data を整理する．
 
-## programming 本を 1 dir にまとめる．
-
-# 
-
 # 外國派遣について調べる．
 
 ## 便覽を讀む．
