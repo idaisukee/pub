@@ -130,3 +130,4 @@ https://www.medilink-study.com/
 
 ### tape を注文する．
 
+# GitHub の .emacs.d の rename をする．
