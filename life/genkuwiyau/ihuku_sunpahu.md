@@ -30,6 +30,24 @@
 |:---|:---|:---|---:|
 |Uniqlo|L|224:39|81|
 
+## MA-1 brouson
+
+|會社|size|年日 ( rd )|體重 ( do t )|
+|:---|:---|:---|---:|
+|Uniqlo|XL|82216|71|
+
+## ラム V neck sweater
+
+|會社|size|年日 ( rd )|體重 ( do t )|
+|:---|:---|:---|---:|
+|Uniqlo|L ( chest: 0.96 - 1.04 m ) |82216|71|
+
+## extra fine メリノ crew neck sweater
+
+|會社|size|年日 ( rd )|體重 ( do t )|
+|:---|:---|:---|---:|
+|Uniqlo|L ( chest: 0.96 - 1.04 m ) |82216|71|
+
 ## mountain parker
 
 |會社|size|日 ( rd )|體重 ( kg )|
