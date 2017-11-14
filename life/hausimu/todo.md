@@ -132,4 +132,3 @@ https://www.medilink-study.com/
 
 ### お立ち臺が hub を挾んでも動くか調べる．
 
-# GitHub の .emacs.d の rename をする．
