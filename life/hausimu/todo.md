@@ -132,3 +132,12 @@ https://www.medilink-study.com/
 
 ### お立ち臺が hub を挾んでも動くか調べる．
 
+# Akihamiti を書く．
+
+# hexo に移行する．
+
+# GNURoot Debian に Emacs を入れる．
+
+## deb-src を使ふ．
+
+## cross compile する．
