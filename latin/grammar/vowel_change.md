@@ -1,0 +1,1 @@
+caput, -itis -> occipitalis, bicipitalis
