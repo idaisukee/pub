@@ -141,3 +141,7 @@ https://www.medilink-study.com/
 ## deb-src を使ふ．
 
 ## cross compile する．
+
+# Amazon に問ひ合はせする．
+
+## 聯絡先を調べる．
