@@ -3,6 +3,7 @@
 - 村 DDI
 - 付
 - 忖
+- 酎
 - 寺 GDI
 
 ## 寺 GDI
@@ -13,4 +14,4 @@
 - 待 HOGDI
 - 等 HGDI
 - 特 HQGDI
-
+- 恃
