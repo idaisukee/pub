@@ -5,12 +5,6 @@ todo
 
 # scan data を整理する．
 
-# 外國派遣について調べる．
-
-## 便覽を讀む．
-
-## mail する．
-
 # 江東稚堂用の聽診器を買ふ．
 
 ## 札幌用の聽診器の品番を調べる．
@@ -141,7 +135,3 @@ https://www.medilink-study.com/
 ## deb-src を使ふ．
 
 ## cross compile する．
-
-# Amazon に問ひ合はせする．
-
-## 聯絡先を調べる．
