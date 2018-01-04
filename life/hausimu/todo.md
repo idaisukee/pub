@@ -135,3 +135,9 @@ https://www.medilink-study.com/
 ## deb-src を使ふ．
 
 ## cross compile する．
+
+# 漢字教材を作る．
+
+## 人名用漢字の一覽を入手する．
+
+# 金融の情報を整理する．
