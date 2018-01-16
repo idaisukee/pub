@@ -141,3 +141,9 @@ https://www.medilink-study.com/
 ## 人名用漢字の一覽を入手する．
 
 # 金融の情報を整理する．
+
+# 財布のなかみを減らす．
+
+## ヨドバシ point card を app に移行する．
+
+# ANA に sign up する．
