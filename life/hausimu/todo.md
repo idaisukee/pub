@@ -103,30 +103,15 @@ https://www.medilink-study.com/
 
 31 da JPY
 
-# 『イヤーノート』を購入する．
-
-
-## 價格を調べる．
-
-https://www.medilink-study.com/
-
-23 da JPY
-
 # 『學問のすすめ』の外來語の memo を探す．
 
 # 換配所の整備
 
 ## 空間を作る．
 
-### tape を注文する．
-
 ## 電源の整理
 
 ## USB の整理
-
-### お立ち臺が hub を挾んでも動くか調べる．
-
-# Akihamiti を書く．
 
 # hexo に移行する．
 
@@ -147,3 +132,4 @@ https://www.medilink-study.com/
 ## ヨドバシ point card を app に移行する．
 
 # ANA に sign up する．
+
