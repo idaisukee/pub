@@ -1,9 +1,0 @@
-- 肘関節 articulatio cubiti
-- 肘 cubitus
-- 肘窩 fossa cubitalis
-- 肘関節筋 M articularis cubiti
-- 肘部 regio cubitalis
-- 前肘部 regio cubitalis anterior
-- 後肘部 regio cubitalis posterior
-- 肘関節動脈網 rete articulare cubiti
-- 正中肘静脈 V. mediana cubiti

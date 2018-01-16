@@ -1,6 +1,0 @@
-- 腱 tendo
-- アキレス腱 tendo Achillis
-- 踵骨腱 tendo calcaneus
-- 結合腱 tendo conjunctivus
-- 輪状食道腱束 tendo cricoesophageus
-- 中間腱 tendo intermedius

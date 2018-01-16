@@ -1,6 +1,0 @@
-- 空腸動脈 Aa. jejunales
-- 十二指腸空腸曲 flexura duodenojejunalis
-- 空腸 intestinum jejunum
-- 空回腸 jejunoileum
-- 空腸 jejunum
-- 空腸静脈 Vv. jejunales

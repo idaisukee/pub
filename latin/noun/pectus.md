@@ -1,9 +1,0 @@
-- 上肢帯 cingulum pectorale
-- 鎖骨胸筋筋膜 fascia clavipectoralis
-- 胸筋筋膜 fascia pectoralis
-- 大胸筋 M pectoralis major
-- 小胸筋 M pectoralis minor
-- 外側胸筋神経 N pectoralis lateralis
-- 内側胸筋神経 N pectoralis medialis
-- 胸 pectus
-- 胸筋部 regio pectoralis

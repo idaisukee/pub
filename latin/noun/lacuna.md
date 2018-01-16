@@ -1,6 +1,0 @@
-- lacuna (??) lacuna (??)
-- 外側裂孔 lacunae laterales
-- 筋裂孔 lacuna musculorum
-- 尿道凹窩 lacunae urethrales
-- 血管裂孔 lacuna vasorum
-- 裂孔靭帯 ligamentum lacunare

@@ -1,7 +1,0 @@
-- 帯 zona
-- 視床下部帯 zonae hypothalamicae
-- 中間帯 zona intermedia
-- 外側帯 zona lateralis
-- 内側帯 zona medialis
-- 輪帯 zona orbicularis
-- 肛門移行帯 zona transitionalis analis

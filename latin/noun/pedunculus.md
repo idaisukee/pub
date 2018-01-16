@@ -1,7 +1,0 @@
-- 脚間槽 cisterna interpeduncularis
-- 脚束 fasciculus peduncularis
-- 脚間核 nucleus interpeduncularis
-- 下小脳脚 pedunculus cerebellaris inferior
-- 中小脳脚 pedunculus cerebellaris medius
-- 上小脳脚 pedunculus cerebellaris superior
-- 片葉脚 pedunculus flocculi

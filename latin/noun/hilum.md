@@ -1,8 +1,0 @@
-- 門 hilum
-- 脾門 hilum liene
-- 歯状核門 hilum nuclei dentati
-- 下オリーブ核門 hilum nuclei olivaris inferioris
-- 卵巣門 hilum ovarii
-- 肺門 hilum pulmonis
-- 腎門 hilum renale
-- 脾門 hilum splenicum
