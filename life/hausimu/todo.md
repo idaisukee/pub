@@ -133,3 +133,4 @@ https://www.medilink-study.com/
 
 # ANA に sign up する．
 
+# Zenfone AR を修理する．
