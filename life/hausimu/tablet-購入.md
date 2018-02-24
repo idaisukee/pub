@@ -14,6 +14,14 @@ http://kakaku.com/item/J0000024841/
 - storage 512 ga B
 - RAM 4 ga B
 
+## iPad Pro, 9.7 in, Wi-Fi, 128 ga B について調べる．
+
+http://review.kakaku.com/review/J0000018565/
+
+- 9.7 in
+- Apple A9X
+- storage 128 ga B
+- 
 ## Z500KL-BK32S4 について調べる．
 
 http://kakaku.com/item/K0000927782/
