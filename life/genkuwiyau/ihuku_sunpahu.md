@@ -11,6 +11,12 @@
 |Uniqlo|88|76|223:323|78|
 |無印良品|88|-|224:39|81|
 
+## slim fit no tack chino
+
+|會社|waist ( co m )|length ( co m )|年日 ( rd )|體重 ( do t )|
+|:---|:---|:---|:---|---:|
+|Uniqlo|82|-|82341|72|
+
 ## T shirts
 
 |會社|size|年日 ( pr )|體重 ( kg )|
