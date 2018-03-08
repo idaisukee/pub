@@ -29,14 +29,6 @@ http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%
 
 ## 業者を探す．
 
-# 『病気がみえる』を購入する．
-
-## 價格を調べる．
-
-https://www.medilink-study.com/
-
-31 da JPY
-
 # 『學問のすすめ』の外來語の memo を探す．
 
 # 換配所の整備
