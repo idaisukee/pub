@@ -5,16 +5,6 @@ todo
 
 # scan data を整理する．
 
-# 江東稚堂用の聽診器を買ふ．
-
-## 札幌用の聽診器の品番を調べる．
-
-http://www.kenzmedico.co.jp/products/%EF%BE%84%EF%BE%9E%EF%BD%B8%EF%BE%80%EF%BD%B0%EF%BE%8C%EF%BD%AB%EF%BE%88%E3%83%83%E3%83%88neo%E3%80%80no-188
-
-ドクターフォネットNEO　No.188
-
-## 札幌用の聽診器の ear piece があるか調べる．
-
 ### 棚を整理する．
 
 # 登山の總括を書く．
