@@ -42,9 +42,3 @@ todo
 # 金融の情報を整理する．
 
 # 財布のなかみを減らす．
-
-## ヨドバシ point card を app に移行する．
-
-# ANA に sign up する．
-
-# Zenfone AR を修理する．
