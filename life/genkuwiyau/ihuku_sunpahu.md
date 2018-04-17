@@ -30,6 +30,13 @@
 |Uniqlo|L|-|223:325|78|
 |Uniqlo|L|-|224:39|81|
 |Suit Select|L|82|82259|71|
+
+## polo shirts
+
+|會社|size|袖 (co m)|年日 ( rd )|體重 ( do t )|
+|:---|:---|:---|:---|---:|
+|Uniqlo|M|-|82356|72|
+
 ## jacket
 
 |會社|size|年日 ( pr )|體重 ( kg )|
