@@ -17,6 +17,12 @@
 |:---|:---|:---|:---|---:|
 |Uniqlo|82|-|82341|72|
 
+## boxer brief ( regular size )
+
+|會社|size|waist ( co m )|日 ( rd )|體重 ( do t )|
+|:---|:---|:---|:---|---:|
+|Uniqlo|L|84 .. 92|83336|82|
+
 ## T shirts
 
 |會社|size|年日 ( pr )|體重 ( kg )|
