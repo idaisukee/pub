@@ -1,0 +1,58 @@
+body {
+	margin: 4em 5em;
+	background-color: #FAECFF;
+	letter-spacing: 0.04em;
+	line-height: 1.4em;
+}
+
+address, cite, em {
+	font-style: normal;
+}
+
+address {
+	margin-bottom: 1em;
+	text-align: right;
+}
+	
+h1 {
+	font-size: 2.5em;
+	text-align: center;
+	color: white;
+	background-color: #9DD7D3;
+	padding: 0.2em;
+	margin-bottom: 1em;
+	border: black solid;
+	border-width: 1px 0px;
+	color: #274333;
+}
+
+h2 {
+	font-family: "Tahoma";
+	margin-top: 1.5em;
+}
+
+p {
+	text-indent: 1em;
+}
+
+.date {
+	text-align: right;
+}
+
+em {
+	font-weight: 600;
+}
+
+blockquote {
+	border: black solid;
+	border-width: 0px 0px 0px 0.5em;
+	padding-left: 0.5em;
+}
+
+p.cite {
+	text-align: right;
+}
+
+blockquote dt {
+	text-indent: 1em;
+}
