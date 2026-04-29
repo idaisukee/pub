@@ -1,0 +1,20 @@
+ア Df
+イ Dw
+ウ ET
+エ EF
+オ BW
+
+a バロー ET
+b カリフォルニア Cs
+c リマ BW
+d レイキャビク Cfb
+e マンチェスター Cfb
+f ヘルシンキ Df
+g イルクーツク Dw
+h 昭和基地 EF
+
+ア - f
+イ - g
+ウ - a
+エ - h
+オ - c
